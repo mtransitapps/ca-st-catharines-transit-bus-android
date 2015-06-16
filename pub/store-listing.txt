@@ -27,7 +27,7 @@ http://www.niagararegion.ca/government/opendata/data-set.aspx#id=32
 This application is free and open-source:
 https://github.com/mtransitapps/ca-st-catharines-transit-bus-android
 
-This app is not related with St Catharines Transit and the Region of Niagara.
+This app is not related with the St. Catharines Transit Commission and the Region of Niagara.
 
 Permissions:
 - Other: required to read news from www.yourbus.com
