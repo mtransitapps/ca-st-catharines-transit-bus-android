@@ -2,7 +2,7 @@ Title: St Catharines Transit Bus - M…
 ----------
 Short description:
 St Catharines Transit Bus for MonTransit.
-Schedule. News.
+Schedule. Real-Time. News.
 ----------
 What's new in this version?:
 Schedule from April 16, 2015 to September 5, 2015.
@@ -11,7 +11,7 @@ News from www.yourbus.com.
 Full description:
 This app adds St Catharines Transit buses information to MonTransit.
 
-This app provides the buses schedule and the latest news from www.yourbus.com.
+This app provides the buses schedule (offline & real-time) and the latest news from www.yourbus.com.
 
 St Catharines Transit buses serve St Catharines and Thorold in Ontario, Canada.
 
@@ -30,7 +30,7 @@ https://github.com/mtransitapps/ca-st-catharines-transit-bus-android
 This app is not related with the St. Catharines Transit Commission and the Region of Niagara.
 
 Permissions:
-- Other: required to read news from www.yourbus.com
+- Other: required to read the real-time schedule and news from www.yourbus.com
 ----------
 Application type: Applications
 ----------
