@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
+    <integer name="clever_devices_db_version">1</integer>
+    <string name="clever_devices_authority">org.mtransit.android.ca_st_catharines_transit_bus.clever_devices</string>
+    <string name="clever_devices_status_for_poi_authority">@string/gtfs_rts_authority</string>
+    <string name="clever_devices_status_url_and_rsn_and_stop_code">http://whereis.yourbus.com/bustime/eta/getStopPredictionsETA.jsp?route=%1$s&amp;stop=%2$s</string>
+</resources>
