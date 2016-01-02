@@ -1,7 +1,7 @@
 101,0,'Downtown',1
 100,0,'Port Dalhousie',1
 201,0,'Downtown',2
-200,0,'Lakeshore Rd',2
+200,0,'Lakeshore',2
 301,0,'Downtown',3
 300,0,'Pelham Rd',3
 400,0,'Brock',4
@@ -13,46 +13,49 @@
 701,0,'Downtown',7
 700,0,'Port Weller',7
 801,0,'Downtown',8
-800,0,'Lakeshore Rd',8
+800,0,'Lakeshore',8
 901,0,'Downtown',9
-900,0,'Lakeshore Rd',9
+900,0,'Lakeshore',9
 1001,0,'Downtown',10
 1000,0,'Pen Ctr',10
 1101,0,'Downtown',11
-1100,0,'St Davids Rd',11
+1100,0,'Hartzel Rd',11
 1201,0,'Downtown',12
-1200,0,'Lakeshore Rd',12
-1400,0,'Scott St',14
+1200,0,'Lakeshore',12
+1401,0,'Dunkeld & Carlton',14
+1402,0,'Fairview Mall',14
 1501,0,'Downtown',15
 1500,0,'Pen Ctr',15
-1600,0,'Brock University',16
 1601,0,'Downtown',16
+1600,0,'Glenridge',16
 1701,0,'Downtown',17
-1700,0,'Linwell Rd',17
+1700,0,'Linwell',17
 1801,0,'Downtown',18
 1800,0,'Pen Ctr',18
 2001,0,'Pen Ctr',20
 2000,0,'Thorold',20
-2100,0,'Brock University',21
+2100,0,'Brock',21
 2101,0,'Thorold',21
 2200,0,'Lynn Cr',22
 2201,0,'Towpath',22
-2301,0,'Brock University',23
+2301,0,'Brock',23
 2300,0,'West',23
-2500,0,'Brock University',25
+2500,0,'Brock',25
 2501,0,'Downtown',25
 2600,0,'NOTL Campus',26
 2601,0,'St Catharines Bus Terminal',26
 2701,0,'St Catharines Bus Terminal',27
 2700,0,'Welland Cam',27
-2800,0,'Brock University',28
-2801,0,'Thorold',28
-2901,0,'Brock University',29
+2800,0,'Brock',28
+2801,0,'Towpath',28
+2901,0,'Brock',29
 2900,0,'Keefer',29
-3001,0,'Brock University',30
+3001,0,'Brock',30
 3000,0,'Sullivan',30
-3101,0,'Brock University',31
-3100,0,'Winterberry Blvd',31
+3101,0,'Brock',31
+3100,0,'Winterberry',31
+3401,0,'NC NOTL Campus',34
+3400,0,'Pen Ctr',34
 10101,0,'Downtown',101
 10100,0,'Port Dalhousie',101
 10201,0,'Downtown',102
@@ -68,20 +71,21 @@
 11001,0,'Downtown',110
 11000,0,'Pen Ctr',110
 11201,0,'Downtown',112
-11200,0,'Lakeshore / Vine St',112
+11200,0,'Lakeshore',112
 11400,0,'Scott St',114
 11501,0,'Downtown',115
 11500,0,'Pen Ctr',115
-11600,0,'Brock-Glenridge',116
 11601,0,'Downtown',116
+11600,0,'Glenridge',116
 11701,0,'Downtown',117
 11700,0,'Lakeshore',117
 11801,0,'Downtown',118
 11800,0,'Pen Ctr',118
 12001,0,'Pen Ctr',120
 12000,0,'Thorold',120
-12201,0,'Brock University',122
+12201,0,'Brock',122
 12200,0,'Pen Ctr',122
-12400,0,'Brock University',124
+12400,0,'Brock',124
 12401,0,'Pen Ctr',124
 12800,0,'Rockwood',128
+21600,0,'Brock',216
