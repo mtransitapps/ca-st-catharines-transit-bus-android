@@ -5,7 +5,7 @@ St Catharines Transit Bus for MonTransit.
 Schedule. Real-Time. News.
 ----------
 What's new in this version?:
-Schedule from April 24, 2016 to September 3, 2016.
+Schedule from September 4, 2016 to January 7, 2017.
 News from www.yourbus.com.
 ----------
 Full description:
