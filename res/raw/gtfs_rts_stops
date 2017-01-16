@@ -22,7 +22,7 @@
 22,'','Martindale Rd / Golden Blvd',43.184559,-79.280991
 23,'','Martindale Rd / Dalemere Cr',43.188591,-79.285995
 24,'','Martindale Rd / Main St',43.190353,-79.286568
-26,'','Main St / Cole Farm Blvd',43.191761,-79.283485
+26,'','Main St / Dalemere Cr',43.19125,-79.284599
 28,'','Main St / Henley Isl Dr',43.193653,-79.28054
 29,'','Corbett St / Main St',43.195068,-79.278824
 30,'','Corbett St / Bayview Dr',43.196594,-79.28054
@@ -567,7 +567,7 @@
 644,'','Rockwood Av / Ferndale Av',43.147186,-79.211868
 645,'','Rockwood Av / Grv Av',43.14661,-79.213577
 647,'','Hartzel Rd / Dunvegan Rd',43.150883,-79.214218
-648,'','Hartzel Rd / Alexandra Blvd',43.152443,-79.214249
+648,'','Hartzel Rd / Alexandra Bl',43.152443,-79.214249
 649,'','Hartzel Rd / Oakwood Av',43.153984,-79.214333
 650,'','Hartzel Rd / Keswick St',43.155579,-79.214386
 651,'','Queenston St / Cameron Rd',43.158821,-79.214928
@@ -576,13 +576,13 @@
 654,'','Queenston St / Wills St',43.161518,-79.223869
 655,'','Queenston St / Richmond St',43.162022,-79.226021
 657,'','Queenston St / Vine St S',43.163067,-79.230232
-658,'','Queenston St / Tasker St',43.16354,-79.232849
-659,'','Church St / Queenston St (Delta',43.163769,-79.235542
+658,'','Queenston St / Tasker St',43.163536,-79.232143
+659,'','Church St / Queenston St',43.163769,-79.235542
 660,'','Church St / Niagara St',43.164001,-79.238159
 663,'','Carlton St / Rolls Av',43.177799,-79.23307
-664,'','Vine St / Carlton St (St Alf',43.179108,-79.230438
+664,'','Vine St / Carlton St',43.179108,-79.230438
 665,'','Vine St / Hl Pk Ln',43.181122,-79.230522
-666,'','Vine St Across Allan Dr',43.183735,-79.230621
+666,'','Vine St / Allan Dr',43.183735,-79.230621
 667,'','Vine St / Old Pine Trl',43.185665,-79.230705
 668,'','Vine St / Scott St',43.187622,-79.230782
 669,'','Vine St / 398 Vine St',43.189228,-79.230911
@@ -593,9 +593,7 @@
 674,'','Vine St / Rosemount Av',43.19957,-79.231422
 675,'','Vine St / Glenview Av',43.202293,-79.231522
 676,'','Vine St / Preston Dr',43.204021,-79.23159
-677,'','Vine St / Costen Blvd',43.20507,-79.231621
 678,'','Vine St / Parnell Rd',43.206657,-79.231712
-679,'','Vine St / Lakeshore Rd',43.209652,-79.231857
 681,'','Vine St / Parnell Rd',43.206684,-79.231796
 683,'','Vine St / Preston Dr',43.203751,-79.231674
 684,'','Vine St / Glenview Av (Gov Simc',43.201965,-79.231598
@@ -919,8 +917,6 @@
 1114,'','Winterberry Blvd / Silver Maple',43.11596,-79.232667
 1115,'','Winterberry Blvd / Juneberry Rd',43.117723,-79.228801
 1116,'','Winterberry Blvd / Richmond St',43.114749,-79.226167
-1117,'','Keefer Rd / Lampman Cr',43.108784,-79.21876
-1118,'','Keefer Rd / Commerford St',43.108189,-79.222953
 1188,'','Riordon St / Division St',43.1615,-79.2387
 1189,'','Queenston St / Church St',43.1634,-79.2353
 1190,'','Queenston St Across Prince St',43.1627,-79.2292
@@ -1001,6 +997,7 @@
 1303,'','Pine St S / Gdn St',43.12059,-79.202922
 1304,'','Collier Rd N / Stewart Av',43.12552,-79.21544
 1305,'','1st St Louth / S Hosp Ent',43.15151,-79.27608
+1306,'','Tupper Dr / St Davids Rd',43.1242,-79.22252
 1307,'','Albert St / Pine St N',43.1249,-79.203
 1308,'','Geneva St / Fairview Mall',43.17774,-79.24087
 1309,'','Pen Ctr West Entrance',43.1326,-79.22657
@@ -1011,7 +1008,7 @@
 1314,'','Martindale Rd / 4th Av',43.156152,-79.265592
 1336,'','Pen Ctr / East Entrance',43.137047,-79.223138
 1338,'','St Paul St W / Mcguire St',43.15453,-79.245978
-1340,'','St Davids Rd / Schmon Pkwy',43.117986,-79.24037
+1340,'','St Davids Rd / Schmon Pkwy',43.118203,-79.240082
 1341,'','Schmon Pkwy / St Davids Rd',43.117028,-79.240143
 1342,'','St Paul St W / Bellevue Terr',43.149748,-79.24852
 1344,'','Geneva St / Maple St',43.167247,-79.240447
@@ -1037,12 +1034,13 @@
 100000,'','Downtown Terminal',43.160076,-79.243553
 100005,'','Barker Pkwy / Sunset Way',43.094608,-79.189348
 100006,'','Brock University',43.119305,-79.248962
-100007,'','Dsbn Academy',43.138554,-79.259605
+100007,'','Dsbn Academy',43.138772,-79.259684
 100008,'','Fairview Mall',43.178413,-79.245514
 100010,'','Linwell Rd / Geneva St',43.193817,-79.242455
 100011,'','Queenston St / Prince St',43.16264,-79.229111
 100012,'','Winterberry Blvd / Silver Maple',43.116028,-79.232641
 100013,'','Marilyn I Walker Campus',43.157062,-79.24224
+100017,'','Vine St / Lakeshore Rd',43.207119,-79.231718
 101205,'','Allanburg Rd / Lynn Cr',43.090845,-79.199535
 130006,'','Lk St / Linwell Rd',43.18922,-79.25205
 160023,'','Pelham Rd / Glendale Av',43.133137,-79.255093
@@ -1076,7 +1074,7 @@
 1221200,'','Lakeshore Rd / Lk St',43.200054,-79.252541
 1221400,'','Lakeshore Rd / Niagara St',43.213212,-79.217205
 1221501,'','Lakeshore Rd / Ontario St',43.19675,-79.2598
-1222200,'','Lakeshore Rd / Vine St',43.2097,-79.232437
+1222200,'','Lakeshore Rd / Vine St',43.209868,-79.232304
 1301203,'','Macturnbull Dr / Louth St',43.130927,-79.260467
 1310703,'','Merritt St / Glendale Av',43.136925,-79.21347
 1311500,'','Merritt St / Oakdale Av',43.14328,-79.214073
