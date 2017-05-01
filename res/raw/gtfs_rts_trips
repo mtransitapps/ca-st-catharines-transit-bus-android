@@ -38,25 +38,14 @@
 2101,0,'Thorold',21
 2200,0,'Port Robinson',22
 2201,0,'Thorold South',22
-2301,0,'Brock',23
-2300,0,'West',23
-2501,0,'Downtown',25
-2600,0,'NOTL Campus',26
-2601,0,'St Catharines Bus Terminal',26
 2701,0,'St Catharines Bus Terminal',27
 2700,0,'Welland Cam',27
-2800,0,'Brock',28
-2801,0,'Towpath',28
-2901,0,'Brock',29
-2900,0,'Keefer',29
-3001,0,'Brock',30
-3000,0,'Sullivan',30
-3101,0,'Brock',31
-3100,0,'Winterberry',31
 3501,0,'Brock',35
 3500,0,'Pen',35
 3600,0,'Brock',36
 3601,0,'Pen Ctr',36
+8801,0,'Pen Ctr',88
+8800,0,'Stokes',88
 10101,0,'Downtown',101
 10100,0,'Port Dalhousie',101
 10201,0,'Downtown',102
@@ -84,15 +73,5 @@
 11800,0,'Pen Ctr',118
 12001,0,'Pen Ctr',120
 12000,0,'Thorold',120
-12800,0,'Rockwood',128
-12901,0,'Brock',129
-12900,0,'Keefer',129
-13001,0,'Brock',130
-13000,0,'Sullivan',130
-13101,0,'Brock',131
-13100,0,'Winterberry',131
 13501,0,'Brock',135
 13500,0,'Pen',135
-13600,0,'Brock',136
-13601,0,'Pen Ctr',136
-21600,0,'Brock',216
