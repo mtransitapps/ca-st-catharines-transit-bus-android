@@ -1,77 +1,97 @@
-101,0,'Downtown',1
-100,0,'Port Dalhousie',1
-201,0,'Downtown',2
-200,0,'Lakeshore',2
-301,0,'Downtown',3
-300,0,'Pelham Rd',3
-401,0,'Downtown',4
-400,0,'Pen',4
-501,0,'Downtown',5
-500,0,'Linwell',5
-601,0,'Downtown',6
-600,0,'Port Dalhousie',6
-701,0,'Downtown',7
-700,0,'Port Weller',7
-801,0,'Downtown',8
-800,0,'Lakeshore',8
-901,0,'Downtown',9
-900,0,'Lakeshore',9
-1001,0,'Downtown',10
-1000,0,'Pen Ctr',10
-1101,0,'Downtown',11
-1100,0,'Hartzel Rd',11
-1201,0,'Downtown',12
-1200,0,'Lakeshore',12
-1401,0,'Dunkeld & Carlton',14
-1402,0,'Fairview Mall',14
-1501,0,'Downtown',15
-1500,0,'Pen Ctr',15
-1601,0,'Downtown',16
-1600,0,'Glenridge',16
-1701,0,'Downtown',17
-1700,0,'Linwell',17
-1801,0,'Downtown',18
-1800,0,'Pen Ctr',18
-2001,0,'Pen Ctr',20
-2000,0,'Thorold',20
-2100,0,'Brock',21
-2101,0,'Thorold',21
-2200,0,'Port Robinson',22
-2201,0,'Thorold South',22
+2301,0,'Brock',23
+2300,0,'West',23
+2600,0,'NOTL Campus',26
+2601,0,'St Catharines Bus Terminal',26
 2701,0,'St Catharines Bus Terminal',27
 2700,0,'Welland Cam',27
-3501,0,'Brock',35
-3500,0,'Pen',35
-3600,0,'Brock',36
-3601,0,'Pen Ctr',36
-8801,0,'Pen Ctr',88
-8800,0,'Stokes',88
-10101,0,'Downtown',101
-10100,0,'Port Dalhousie',101
-10201,0,'Downtown',102
-10200,0,'Lakeshore',102
-10401,0,'Downtown',104
-10400,0,'Pen Ctr',104
-10601,0,'Downtown',106
-10600,0,'Port Dalhousie',106
-10801,0,'Downtown',108
-10800,0,'Port Weller',108
-10901,0,'Downtown',109
-10900,0,'Lakeshore',109
-11001,0,'Downtown',110
-11000,0,'Pen Ctr',110
-11201,0,'Downtown',112
-11200,0,'Lakeshore',112
-11400,0,'Scott St',114
-11501,0,'Downtown',115
-11500,0,'Pen Ctr',115
-11601,0,'Downtown',116
-11600,0,'Glenridge',116
-11701,0,'Downtown',117
-11700,0,'Lakeshore',117
-11801,0,'Downtown',118
-11800,0,'Pen Ctr',118
-12001,0,'Pen Ctr',120
-12000,0,'Thorold',120
-13501,0,'Brock',135
-13500,0,'Pen',135
+30101,0,'Downtown',301
+30100,0,'Port Dalhousie',301
+30201,0,'Downtown',302
+30200,0,'Lakeshore',302
+30301,0,'Downtown',303
+30300,0,'Pelham Rd',303
+30401,0,'Downtown',304
+30400,0,'Pen',304
+30501,0,'Downtown',305
+30500,0,'Linwell',305
+30601,0,'Downtown',306
+30600,0,'Port Dalhousie',306
+30701,0,'Downtown',307
+30700,0,'Port Weller',307
+30801,0,'Downtown',308
+30800,0,'Lakeshore',308
+30901,0,'Downtown',309
+30900,0,'Lakeshore',309
+31001,0,'Downtown',310
+31000,0,'Pen Ctr',310
+31101,0,'Downtown',311
+31100,0,'Hartzel Rd',311
+31201,0,'Downtown',312
+31200,0,'Lakeshore',312
+31400,0,'Scott St',314
+31501,0,'Downtown',315
+31500,0,'Pen Ctr',315
+31601,0,'Downtown',316
+31600,0,'Glenridge',316
+31701,0,'Downtown',317
+31700,0,'Linwell',317
+31801,0,'Downtown',318
+31800,0,'Pen Ctr',318
+32001,0,'Pen Ctr',320
+32000,0,'Thorold',320
+32100,0,'Brock',321
+32101,0,'Thorold',321
+32200,0,'Port Robinson',322
+32201,0,'Thorold South',322
+32400,0,'Brock',324
+32401,0,'Tupper',324
+32800,0,'Brock',328
+32801,0,'Towpath',328
+33101,0,'Brock',331
+33100,0,'Winterberry',331
+33501,0,'Brock',335
+33500,0,'Pen',335
+33600,0,'Brock',336
+33601,0,'Pen Ctr',336
+40101,0,'Downtown',401
+40100,0,'Port Dalhousie',401
+40201,0,'Downtown',402
+40200,0,'Lakeshore',402
+40401,0,'Downtown',404
+40400,0,'Pen Ctr',404
+40601,0,'Downtown',406
+40600,0,'Port Dalhousie',406
+40801,0,'Downtown',408
+40800,0,'Port Weller',408
+40901,0,'Downtown',409
+40900,0,'Lakeshore',409
+41001,0,'Downtown',410
+41000,0,'Pen Ctr',410
+41201,0,'Downtown',412
+41200,0,'Lakeshore',412
+41400,0,'Scott St',414
+41501,0,'Downtown',415
+41500,0,'Pen Ctr',415
+41601,0,'Downtown',416
+41600,0,'Glenridge',416
+41701,0,'Downtown',417
+41700,0,'Lakeshore',417
+41801,0,'Downtown',418
+41800,0,'Pen Ctr',418
+42001,0,'Pen Ctr',420
+42000,0,'Thorold',420
+42100,0,'Brock',421
+42101,0,'Thorold',421
+42301,0,'Brock',423
+42300,0,'West',423
+42400,0,'Brock',424
+42401,0,'Tupper',424
+42501,0,'Brock Bullet',425
+42800,0,'Brock',428
+42801,0,'Towpath',428
+43101,0,'Brock',431
+43100,0,'Winterberry',431
+43501,0,'Brock',435
+43500,0,'Pen',435
+43600,0,'Brock',436
+43601,0,'Pen Ctr',436
