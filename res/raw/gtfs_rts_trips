@@ -4,6 +4,8 @@
 2601,0,'St Catharines Bus Terminal',26
 2701,0,'St Catharines Bus Terminal',27
 2700,0,'Welland Cam',27
+8800,0,'AM',88
+8801,0,'PM',88
 30101,0,'Downtown',301
 30100,0,'Port Dalhousie',301
 30201,0,'Downtown',302
@@ -28,11 +30,12 @@
 31100,0,'Hartzel Rd',311
 31201,0,'Downtown',312
 31200,0,'Lakeshore',312
+31401,0,'Fairview Mall',314
 31400,0,'Scott St',314
 31501,0,'Downtown',315
 31500,0,'Pen Ctr',315
+31600,0,'Brock',316
 31601,0,'Downtown',316
-31600,0,'Glenridge',316
 31701,0,'Downtown',317
 31700,0,'Linwell',317
 31801,0,'Downtown',318
@@ -48,7 +51,7 @@
 32800,0,'Brock',328
 32801,0,'Towpath',328
 33101,0,'Brock',331
-33100,0,'Winterberry',331
+33100,0,'Richmond',331
 33501,0,'Brock',335
 33500,0,'Pen',335
 33600,0,'Brock',336
@@ -69,11 +72,12 @@
 41000,0,'Pen Ctr',410
 41201,0,'Downtown',412
 41200,0,'Lakeshore',412
+41401,0,'Fairview Mall',414
 41400,0,'Scott St',414
 41501,0,'Downtown',415
 41500,0,'Pen Ctr',415
+41600,0,'Brock',416
 41601,0,'Downtown',416
-41600,0,'Glenridge',416
 41701,0,'Downtown',417
 41700,0,'Lakeshore',417
 41801,0,'Downtown',418
@@ -87,10 +91,10 @@
 42400,0,'Brock',424
 42401,0,'Tupper',424
 42501,0,'Brock Bullet',425
-42800,0,'Brock',428
-42801,0,'Towpath',428
 43101,0,'Brock',431
-43100,0,'Winterberry',431
+43100,0,'Richmond',431
+43200,0,'Brock',432
+43201,0,'Towpath',432
 43501,0,'Brock',435
 43500,0,'Pen',435
 43600,0,'Brock',436
