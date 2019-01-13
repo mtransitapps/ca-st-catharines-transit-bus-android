@@ -1042,6 +1042,9 @@
 1392,'1392','Carlton St / Sunnylea Dr',43.184409,-79.214945
 1393,'1393','Carlton St / Patricia Dr',43.183518,-79.217391
 1394,'1394','4th Av / 1st St Louth (Ne)',43.15534,-79.276088
+1396,'1396','Richmond St / Winterberry Bl',43.114458,-79.226901
+1397,'1397','Richmond St / Raspberry Tr',43.112814,-79.23042
+1398,'1398','Richmond St / Manley Cr Path',43.110683,-79.231901
 2201,'2201','Niagara Falls Rd / Mackan St',43.105831,-79.192284
 2202,'2202','Niagara Falls Rd / Morton St',43.105789,-79.195229
 2203,'2203','Niagara Falls Rd / Allanburg Rd',43.104778,-79.198914
@@ -1059,9 +1062,7 @@
 100006,'BRU','Brock University',43.118878,-79.248973
 100007,'DAS','Dsbn Academy',43.138772,-79.259684
 100008,'FVM','Fairview Mall',43.178413,-79.245514
-100010,'LIG','Linwell Rd / Geneva St',43.193817,-79.242455
 100011,'QUP','Queenston St / Prince St',43.16264,-79.229111
-100017,'VIL','Vine St / Lakeshore Rd',43.207119,-79.231718
 100020,'GDC','Niagara College - Notl Campus',43.152309,-79.166473
 100022,'WAL','Smart Ctr - W St Catharines',43.152443,-79.266052
 100023,'RIC','Richmond St / Confederation Av',43.114711,-79.226067
@@ -1072,8 +1073,7 @@
 100031,'SIR','Sir Winston Churchill',43.140103,-79.231666
 100032,'OSD','Ormond St N / St Davids Rd W',43.129831,-79.199297
 100033,'DCA','Dunkeld Av / Carlton St',43.187872,-79.204815
-100034,'TLQ','Townline Rd / Queen St',43.130959,-79.205505
-100035,'CTO','Thorold Towpath Terminal',43.123463,-79.201767
+100035,'CTO','Thorold Towpath Terminal',43.123822,-79.20208
 100036,'MCL','Macturnbull Dr / Louth St',43.130602,-79.259432
 100037,'LKL','Lakeshore Rd / Lk St',43.200054,-79.252541
 100038,'LKG','Lakeshore Rd / Geneva St',43.204708,-79.242233
