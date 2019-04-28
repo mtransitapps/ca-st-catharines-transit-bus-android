@@ -1,7 +1,7 @@
 1,'0001','Church St / Lyman St',43.160435,-79.246666
 2,'0002','James St / Duke St',43.160545,-79.247948
 3,'0003','James St / Lk St',43.161861,-79.250412
-4,'0004','Welland Av / York St',43.161113,-79.253589
+4,'0004','Welland Av / York St',43.161287,-79.253287
 5,'0005','4th Av / Ontario St',43.159999,-79.25667
 6,'0006','4th Av / Ridley Plz',43.155833,-79.263065
 7,'0007','Martindale Rd / Elderwood Dr',43.158726,-79.265259
@@ -225,8 +225,6 @@
 253,'0253','Oakdale Av / Capner St',43.155087,-79.227158
 255,'0255','Oakdale Av / Eastchester Av W',43.160397,-79.228951
 256,'0256','Oakdale Av / Gale Cr',43.162487,-79.231552
-257,'0257','Queenston St / Church St',43.163437,-79.235504
-258,'0258','Queenston St / Calvin St',43.163048,-79.237274
 259,'0259','Riordon St / Gale Cr',43.160385,-79.238197
 261,'0261','Church St / Academy St',43.161674,-79.245338
 263,'0263','Catherine St / Welland Av',43.162843,-79.246607
@@ -337,9 +335,6 @@
 374,'0374','Lk St / Albert St',43.165413,-79.250824
 375,'0375','Lk St / Louisa St',43.163525,-79.250725
 376,'0376','Lk St / Armouries',43.162918,-79.250694
-379,'0379','Niagara St / Geneva St',43.162533,-79.239601
-380,'0380','Niagara St / Church St',43.164112,-79.238327
-382,'0382','Niagara St / Welland Av',43.167015,-79.236275
 383,'0383','Niagara St / Dacotah St',43.168716,-79.235123
 384,'0384','Niagara St / Russell Av',43.169838,-79.23436
 386,'0386','Niagara St / Manning St',43.17184,-79.233055
@@ -400,8 +395,6 @@
 451,'0451','Niagara St / Manning St',43.171329,-79.233597
 452,'0452','Niagara St / Russell Av',43.169926,-79.234535
 453,'0453','Niagara St / Dacotah St',43.168461,-79.235535
-454,'0454','Niagara St / Welland Av',43.166752,-79.236664
-456,'0456','Niagara St / Church St',43.164207,-79.238472
 458,'0458','King St / Church St',43.162914,-79.242149
 459,'0459','Welland Av / Midtown Plz',43.163914,-79.245232
 460,'0460','Welland Av / Water St',43.16497,-79.24231
@@ -473,8 +466,6 @@
 533,'0533','Welland Av / Geneva Sq Plz',43.16637,-79.238907
 534,'0534','Welland Av / Water St',43.16518,-79.242088
 536,'0536','Welland Av / Catherine St',43.164036,-79.245277
-537,'0537','Geneva St / Firehall',43.162495,-79.239998
-538,'0538','Geneva St / Church St',43.163757,-79.240097
 539,'0539','Geneva St / Welland Av',43.166115,-79.240219
 540,'0540','Geneva St / Maple St',43.167828,-79.240356
 541,'0541','Geneva St / Dacotah St',43.169075,-79.24041
@@ -513,8 +504,6 @@
 578,'0578','Geneva St / Russell Av',43.170094,-79.240623
 579,'0579','Geneva St / Dacotah St',43.168434,-79.240517
 580,'0580','Geneva St / Welland Av',43.166012,-79.240387
-581,'0581','Geneva St / Church St (Creations',43.163754,-79.24028
-582,'0582','Church St / Court St',43.16288,-79.243416
 584,'0584','Glenridge Av / Westchester Av',43.154896,-79.242172
 585,'0585','Glenridge Av / Hillcrest Av',43.152699,-79.240738
 586,'0586','Glenridge Av / Wychwood Rd',43.151276,-79.240387
@@ -662,8 +651,6 @@
 757,'0757','Vansickle Rd / Strada Bl',43.138348,-79.270065
 758,'0758','Vansickle Rd / Rykert St',43.136429,-79.269981
 759,'0759','Vansickle Rd / Briarwood Dr',43.134296,-79.269943
-767,'0767','Macturnbull Dr / Louth St',43.1309,-79.260467
-768,'0768','Macturnbull Dr / Westland St',43.131889,-79.266296
 770,'0770','Macturnbull Dr / Vansickle Rd',43.1317,-79.2694
 771,'0771','Macturnbull Dr / Westland St',43.131808,-79.266697
 772,'0772','Westland St / Maria St',43.133205,-79.266464
@@ -898,17 +885,6 @@
 1073,'1073','Confederation Hts Pk',43.112202,-79.22303
 1075,'1075','Glenridge Av / John Macdonell St',43.119984,-79.243233
 1078,'1078','99 Merritt St',43.136298,-79.20489
-1101,'1101','Pine St N / Ann St',43.126762,-79.203362
-1102,'1102','Pine St N / Water St',43.128159,-79.203407
-1103,'1103','Pine St N / St Davids Rd',43.129498,-79.203461
-1104,'1104','St Davids Rd / Queen St N',43.129486,-79.205299
-1105,'1105','St Davids Rd / St Charles Dr',43.127563,-79.213829
-1106,'1106','St Davids Rd / Foley Cr',43.128998,-79.210472
-1107,'1107','St Davids Rd / Queen St N',43.12941,-79.205399
-1108,'1108','St Davids Rd / Pine St N',43.129471,-79.203545
-1109,'1109','Pine St N / Water St',43.128197,-79.203499
-1110,'1110','Pine St N / Ann St',43.126842,-79.203461
-1111,'1111','Pine St N / Albert St',43.124916,-79.203339
 1112,'1112','Linwell Rd / Geneva St',43.193834,-79.242306
 1188,'1188','Riordon St / Division St',43.1615,-79.2387
 1189,'1189','Queenston St / Church St',43.1634,-79.2353
@@ -921,7 +897,6 @@
 1197,'1197','Merritt St / Rockwood Av',43.146101,-79.214173
 1198,'1198','Rockwood Av / Carriage Rd',43.1494,-79.2054
 1199,'1199','Hartzel Rd / Admiral Rd',43.1485,-79.2142
-1202,'1202','Macturnbull Dr / Welstead Dr',43.1318,-79.2624
 1203,'1203','Rykert St / Cumming St',43.1423,-79.2531
 1204,'1204','Confederation Av / Summers Dr',43.111138,-79.221357
 1205,'1205','Schmon Pkwy / The Lofts',43.115477,-79.238928
@@ -939,14 +914,11 @@
 1221,'1221','St Paul St W / Lloyd St',43.146153,-79.256865
 1222,'1222','Vansickle Rd / Strada Blvd',43.1381,-79.27
 1223,'1223','348 Pelham Rd',43.133137,-79.19994
-1225,'1225','Gale Cr / Riordon St',43.160587,-79.238235
 1226,'1226','276 Oakdale Av',43.156013,-79.228333
 1227,'1227','St Paul St W / Frederick St',43.1437,-79.2645
 1229,'1229','Niagara St / Tecumseh St',43.205305,-79.220022
 1230,'1230','Wood St / Geneva St',43.179112,-79.240153
 1231,'1231','Lakeshore Rd / Vine St',43.209918,-79.232154
-1233,'1233','St Davids Rd / West St',43.129623,-79.207005
-1234,'1234','St Davids Rd / West St',43.129475,-79.20697
 1236,'1236','Grantham Av / Grantham Av Pk',43.195458,-79.221285
 1237,'1237','Fairview Mall / Cibc Bank',43.176577,-79.242378
 1238,'1238','Grantham Av / Grantham Plz',43.200513,-79.221422
@@ -981,7 +953,6 @@
 1299,'1299','Richmond St / Manley Cr Path',43.110576,-79.231747
 1300,'1300','Richmond St / Calcott Cr',43.112734,-79.230325
 1301,'1301','Richmond St / Confederation Av',43.114597,-79.226292
-1302,'1302','Pine St S / Lynden St W',43.118981,-79.202818
 1303,'1303','Pine St S / Gdn St',43.12059,-79.202922
 1305,'1305','1st St Louth / 2032 1st St L',43.15151,-79.27608
 1307,'1307','Albert St / Pine St N',43.1249,-79.203
@@ -1063,7 +1034,6 @@
 100007,'DAS','Dsbn Academy',43.138772,-79.259684
 100008,'FVM','Fairview Mall',43.178413,-79.245514
 100011,'QUP','Queenston St / Prince St',43.16264,-79.229111
-100020,'GDC','Niagara College - Notl Campus',43.152309,-79.166473
 100022,'WAL','Smart Ctr - W St Catharines',43.152443,-79.266052
 100023,'RIC','Richmond St / Confederation Av',43.114711,-79.226067
 100026,'LKV','Lakeshore Rd / Vine St',43.209868,-79.232304
@@ -1074,7 +1044,6 @@
 100032,'OSD','Ormond St N / St Davids Rd W',43.129831,-79.199297
 100033,'DCA','Dunkeld Av / Carlton St',43.187872,-79.204815
 100035,'CTO','Thorold Towpath Terminal',43.123822,-79.20208
-100036,'MCL','Macturnbull Dr / Louth St',43.130602,-79.259432
 100037,'LKL','Lakeshore Rd / Lk St',43.200054,-79.252541
 100038,'LKG','Lakeshore Rd / Geneva St',43.204708,-79.242233
 100039,'PGL','Pelham Rd / Glendale Av',43.133329,-79.254766
