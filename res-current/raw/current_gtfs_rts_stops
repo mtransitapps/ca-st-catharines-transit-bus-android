@@ -1031,7 +1031,6 @@
 100002,'PEN','Pen Ctr',43.134869,-79.223701
 100005,'BAS','Barker Pkwy / Sunset Way',43.094608,-79.189348
 100006,'BRU','Brock University',43.118878,-79.248973
-100007,'DAS','Dsbn Academy',43.138772,-79.259684
 100008,'FVM','Fairview Mall',43.178413,-79.245514
 100011,'QUP','Queenston St / Prince St',43.16264,-79.229111
 100022,'WAL','Smart Ctr - W St Catharines',43.152443,-79.266052
@@ -1042,20 +1041,17 @@
 100030,'GLI','Geneva St / Linwell Rd',43.194069,-79.241646
 100031,'SIR','Sir Winston Churchill',43.140103,-79.231666
 100032,'OSD','Ormond St N / St Davids Rd W',43.129831,-79.199297
-100033,'DCA','Dunkeld Av / Carlton St',43.187872,-79.204815
 100035,'CTO','Thorold Towpath Terminal',43.123822,-79.20208
 100037,'LKL','Lakeshore Rd / Lk St',43.200054,-79.252541
 100038,'LKG','Lakeshore Rd / Geneva St',43.204708,-79.242233
 100039,'PGL','Pelham Rd / Glendale Av',43.133329,-79.254766
 100040,'CRL','Carlton St / Lk St',43.171967,-79.251068
-100041,'WIA','Wildwood Rd / Arthur St',43.219449,-79.22236
 100042,'CVI','Carlton St / Vine St',43.178753,-79.230537
 100043,'KAB','Abbey Dr / Keefer Rd',43.108284,-79.225266
 100045,'ERM','Erion Rd / Martindale Rd',43.172111,-79.27397
 100046,'WEN','Welland Av / Niagara St',43.167235,-79.236195
 100047,'WEC','Welland Av / Cushman Rd',43.180161,-79.200461
 100048,'PAP','Pathstone Way / Pennachetti St',43.153631,-79.283818
-100049,'SIP','Seapark Dr Industrial Pk',43.175452,-79.203245
 101205,'AlnbgLyn','Allanburg Rd / Lynn Cr',43.090845,-79.199535
 130006,'LLI6','Lk St / Linwell Rd',43.189611,-79.252007
 200500,'BntgEchr','Bunting Rd / Eastchester Av',43.166737,-79.209816
