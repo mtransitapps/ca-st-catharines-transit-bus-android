@@ -3,14 +3,14 @@
     <integer name="clever_devices_db_version">2</integer>
     <string name="clever_devices_authority">org.mtransit.android.ca_st_catharines_transit_bus.clever_devices</string>
     <string name="clever_devices_status_for_poi_authority">@string/gtfs_rts_authority</string>
-    <string name="clever_devices_status_url_and_rsn_and_stop_code">http://whereis.yourbus.com/bustime/eta/getStopPredictionsETA.jsp?route=%1$s&amp;stop=%2$s</string>
+    <string name="clever_devices_status_url_and_rsn_and_stop_code">http://whereis.yourbus.com/bustime/eta/getStopPredictionsETA.jsp?agency=SCT&amp;route=%1$s&amp;stop=%2$s</string>
     <string-array name="clever_devices_schedule_head_sign_clean_regex">
         <item>([^\\-]+(\\- ))</item>
         <item>((^|\\W){1}.*(to)(\\W|$){1})</item>
     </string-array>
     <string-array name="clever_devices_schedule_head_sign_clean_replacement">
-        <item></item> <!-- empty (remove) -->
-        <item></item> <!-- empty (remove) -->
+        <item /> <!-- empty (remove) -->
+        <item /> <!-- empty (remove) -->
     </string-array>
     <bool name="clever_devices_schedule_head_sign_to_lower_case">true</bool>
 </resources>
