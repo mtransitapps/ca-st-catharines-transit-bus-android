@@ -7,13 +7,13 @@
     <bool name="rss_copy_to_file_instead_of_streaming">false</bool>
     <string name="rss_encoding">UTF-8</string>
     <string-array name="rss_feeds">
-        <item>http://www.yourbus.com/feed/</item>
+        <item>https://www.yourbus.com/feed/</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
         <item>@string/gtfs_rts_short_name</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
-        <item>http://www.yourbus.com/news/</item>
+        <item>https://yourbus.com/category/news/</item>
     </string-array>
     <string-array name="rss_feeds_label">
         <item>www.yourbus.com</item>
