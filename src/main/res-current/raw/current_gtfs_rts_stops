@@ -23,9 +23,9 @@
 23,'23','Martindale Rd & Dalemere Cr',43.188591,-79.285995
 24,'24','Martindale Rd & Main St',43.190353,-79.286568
 26,'26','Main St & Dalemere Cr',43.19125,-79.284599
-28,'28','Main St & Henley Isl Dr',43.19379295,-79.28044762
-29,'29','Corbett St & Main St',43.19513082,-79.27895753
-30,'30','Corbett St & Bayview Dr',43.19655227,-79.28058871
+28,'28','Main St & Henley Isl Dr',43.193792952142,-79.280447615688
+29,'29','Corbett St & Main St',43.1951308236938,-79.2789575278857
+30,'30','Corbett St & Bayview Dr',43.1965522672581,-79.2805887132818
 31,'31','Bayview Dr & Shelley Av',43.197413,-79.27934
 32,'32','Bayview Dr & Johnston St',43.198135,-79.278183
 33,'33','Johnston St & Main St',43.196686,-79.276306
@@ -38,11 +38,11 @@
 40,'40','Lakeport Rd & Rennie Pk',43.200967,-79.265878
 41,'41','88 Lakeport Rd',43.197477,-79.26262
 42,'42','Lakeport Rd & Embassy Dr',43.196373,-79.260887
-43,'43','Lakeshore Rd & Port Plz',43.19656926,-79.25982238
+43,'43','Lakeshore Rd & Port Plz',43.1965692593103,-79.2598223805362
 44,'44','Lakeport Rd & Lakeshore Rd',43.196598,-79.261139
 45,'45','Lakeport Rd & Michigan Av',43.198196,-79.263657
 46,'46','Lakeport Rd & Legion',43.201165,-79.26579
-47,'47','Lock St & Main St',43.20259066,-79.26674567
+47,'47','Lock St & Main St',43.2025906574677,-79.2667456716299
 48,'48','Main St & Simcoe St',43.201762,-79.268287
 49,'49','Main St & Brock St',43.200847,-79.269685
 50,'50','Main St & Ann St',43.199982,-79.271088
@@ -54,12 +54,12 @@
 56,'56','Bayview Dr & Corbett Av',43.196825,-79.280327
 58,'58','Corbett Av & Main St',43.19503,-79.27888
 59,'59','Main St & St Ann School',43.193655,-79.280723
-60,'60','Main St & Cole Farm Blvd',43.19169667,-79.28371558
+60,'60','Main St & Cole Farm Blvd',43.1916966692104,-79.2837155789039
 61,'61','Martindale Rd & Main St',43.190262,-79.286692
 62,'62','Martindale Rd & Dalemere Blvd',43.188353,-79.286032
 63,'63','Martindale Rd & Golden Blvd',43.18438,-79.280898
 64,'64','Martindale Rd & Brooklyn Ct',43.180048,-79.277623
-66,'66','Martindale Rd & QEW South',43.17563963,-79.27514166
+66,'66','Martindale Rd & QEW South',43.1756396255991,-79.2751416563988
 67,'67','Martindale Rd & Hannover Dr',43.173698,-79.274095
 68,'68','Martindale Rd & Erion Rd',43.172427,-79.273397
 69,'69','Erion Rd & Huntington Plz',43.172134,-79.274841
@@ -121,7 +121,7 @@
 129,'129','Lakeshore Rd & Lk St',43.200279,-79.252197
 130,'130','Lakeshore Rd & Lakeshore Sq',43.19965,-79.253876
 131,'131','Lakeshore Rd & Westgate Pk',43.198829,-79.255934
-132,'132','Lakeshore Rd & Lakeport Rd',43.19704629,-79.25985062
+132,'132','Lakeshore Rd & Lakeport Rd',43.1970462861183,-79.2598506242348
 133,'133','Ontario St & Philpark Rd',43.194855,-79.2603
 134,'134','Ontario St & Lakehurst Dr',43.19273,-79.2612
 135,'135','Ontario St & Chapleau Gt',43.19096,-79.262016
@@ -146,7 +146,7 @@
 155,'155','Church St & William St',43.15781,-79.249046
 156,'156','Church St & James St',43.159462,-79.247467
 158,'158','St Paul St W & Memorial Pk',43.154572,-79.246132
-159,'159','St Paul St W & Henrietta St',43.15011167,-79.24839333
+159,'159','St Paul St W & Henrietta St',43.1501116666667,-79.2483933333333
 160,'160','St Paul St W & McDonald St',43.149216,-79.249886
 164,'164','Pelham Rd & Kent St',43.140991,-79.251305
 165,'165','Pelham Rd & Wallace St',43.138344,-79.251999
@@ -159,7 +159,7 @@
 182,'182','Benfield Dr & Louth St',43.151837,-79.262977
 183,'183','Louth St & Ridley Rd',43.149372,-79.260239
 184,'184','Louth St & St Paul St W',43.145597,-79.260045
-190,'190','St Paul St W & Leeper St',43.14702093,-79.25433748
+190,'190','St Paul St W & Leeper St',43.1470209270855,-79.2543374777233
 191,'191','St Paul St W & Dexter St',43.148102,-79.251723
 192,'192','St Paul St W & Flummerfelt Rd',43.149033,-79.249931
 195,'195','St Paul St & Queen St',43.156652,-79.245342
@@ -263,7 +263,7 @@
 344,'344','Lk St & Armouries',43.16272,-79.250488
 345,'345','Lk St & Louisa St',43.164043,-79.250612
 346,'346','Lk St & Albert St',43.1658,-79.250715
-347,'347','Lk St & Beech St',43.16737839,-79.25082995
+347,'347','Lk St & Beech St',43.1673783944722,-79.2508299529618
 349,'349','Lk St & Russell Av',43.169956,-79.250877
 350,'350','Lk St & Carlton St',43.172618,-79.251065
 351,'351','Lk St & Erindale Av',43.174367,-79.25116
@@ -274,7 +274,7 @@
 356,'356','Lk St & Gdn City Plz',43.189713,-79.251907
 357,'357','Lk St & Linwell Rd',43.19112,-79.251938
 358,'358','Lk St & Prince Charles Dr',43.194212,-79.252145
-359,'359','Lk St & Heidehof',43.1967206,-79.25232292
+359,'359','Lk St & Heidehof',43.1967206036776,-79.2523229241306
 361,'361','Lk St & Lakeshore Rd',43.19925,-79.25244
 362,'362','Lk St & Heidehof',43.196545,-79.252411
 363,'363','Lk St & St Francis School',43.193569,-79.252258
@@ -416,7 +416,7 @@
 564,'564','Geneva St / Parkview Apts',43.198261,-79.241997
 565,'565','Geneva St / St Columba Dr',43.196407,-79.241859
 566,'566','Geneva St & Linwell Rd',43.194523,-79.241806
-567,'567','Geneva St & Linwell Rd',43.19347428,-79.24168094
+567,'567','Geneva St & Linwell Rd',43.1934742822026,-79.241680938012
 568,'568','Geneva St & Millward Av',43.191559,-79.241638
 569,'569','Geneva St & Thompson Av',43.188633,-79.241478
 570,'570','Geneva St & Overholt St',43.18602,-79.241333
@@ -447,7 +447,7 @@
 597,'597','Gln Morris Dr & Sir Winston Chu',43.140255,-79.231323
 598,'598','Gln Morris Dr & Towering Height',43.13978,-79.235782
 599,'599','Glenridge Av & Gln Morris Dr',43.14013,-79.239198
-600,'600','190 Glenridge Av - Southridge C',43.14214998,-79.2394009
+600,'600','190 Glenridge Av - Southridge C',43.142149979815,-79.2394008994233
 601,'601','Glenridge Av & Edgedale Av',43.146454,-79.239632
 602,'602','Glenridge Av & Rockcliffe Rd',43.148613,-79.239914
 603,'603','Glenridge Av & Ridgewood Rd',43.1502,-79.240135
@@ -475,8 +475,8 @@
 663,'663','Carlton St & Rolls Av',43.177799,-79.23307
 664,'664','Vine St & Carlton St',43.179118,-79.230465
 665,'665','Vine St & Hl Pk Ln',43.181122,-79.230522
-666,'666','Vine St & Allan Dr',43.18370672,-79.23072621
-667,'667','Vine St & Old Pine Trl',43.18571202,-79.23078479
+666,'666','Vine St & Allan Dr',43.1837067247933,-79.2307262063059
+667,'667','Vine St & Old Pine Trl',43.1857120193272,-79.230784785741
 668,'668','Vine St & Scott St',43.187662,-79.23079
 669,'669','Vine St & 398 Vine St',43.189228,-79.230911
 670,'670','Vine St & Densgrove Cr',43.191025,-79.231003
@@ -513,7 +513,7 @@
 706,'706','Scott St & Else St',43.185551,-79.238426
 707,'707','Scott St & Bonavem Dr',43.186263,-79.236442
 708,'708','Scott St & 350 Scott St',43.187553,-79.232681
-709,'709','Scott St & Vine St',43.18865945,-79.22980452
+709,'709','Scott St & Vine St',43.1886594483701,-79.229804518809
 710,'710','Scott St & Grantham Plz',43.189436,-79.227671
 711,'711','Scott St & Niagara St',43.190243,-79.225166
 712,'712','Scott St & Jubilee Dr',43.191048,-79.22303
@@ -580,7 +580,7 @@
 791,'791','Glendale Av & Marlene Dr',43.133347,-79.231255
 792,'792','Glendale Av & Woodgale Pk',43.134014,-79.234543
 793,'793','Glendale Av & Wakil Dr',43.134357,-79.237305
-794,'794','Glendale Av & Glenridge Av',43.13462792,-79.23953801
+794,'794','Glendale Av & Glenridge Av',43.1346279155999,-79.2395380139351
 795,'795','Glendale Av & Marsdale Dr',43.134968,-79.242409
 796,'796','Glendale Av & Riverview Blvd',43.134243,-79.246056
 797,'797','Glendale Av & Pelham Rd',43.133369,-79.254245
@@ -673,7 +673,7 @@
 922,'922','Eastchester Av & Laird Av',43.165268,-79.214745
 923,'923','Eastchester Av & Annette Ave',43.165829,-79.213249
 925,'925','Queenston St & Bunting Rd',43.159083,-79.208722
-926,'926','Queenston St & Spg St',43.15963839,-79.20645339
+926,'926','Queenston St & Spg St',43.1596383854004,-79.2064533948997
 927,'927','Spg St & Rosedale Av',43.157539,-79.204872
 928,'928','Rosedale Av & Greenwood Av',43.156483,-79.203262
 929,'929','Dundonald St & Bloomfield Av',43.155537,-79.202744
@@ -800,62 +800,62 @@
 1214,'1214','Russell Av & Lk St',43.1702,-79.2504
 1215,'1215','Benfield Dr & Flagro Industries',43.150502,-79.263462
 1218,'1218','Oakdale Ave & Merritt St',43.1433,-79.2146
-1219,'1219','292 Oakdale Av',43.15707718,-79.22909435
+1219,'1219','292 Oakdale Av',43.1570771829646,-79.2290943503576
 1220,'1220','292 Oakdale Av',43.1579,-79.2289
 1221,'1221','St Paul St W & Lloyd St',43.146153,-79.256865
 1222,'1222','Vansickle Rd & Strada Blvd',43.1381,-79.27
 1226,'1226','276 Oakdale Av',43.156013,-79.228333
 1227,'1227','St Paul St W & Frederick St',43.1437,-79.2645
-1229,'1229','Niagara St & Tecumseh St',43.205305,-79.22002167
-1230,'1230','Wood St & Geneva St',43.17911167,-79.24015333
-1231,'1231','Lakeshore Rd & Vine St',43.20991769,-79.23215437
+1229,'1229','Niagara St & Tecumseh St',43.205305,-79.2200216666667
+1230,'1230','Wood St & Geneva St',43.1791116666667,-79.2401533333333
+1231,'1231','Lakeshore Rd & Vine St',43.2099176916822,-79.2321543687044
 1233,'1233','St Davids Rd & West St',43.129623,-79.207005
-1236,'1236','Grantham Av & Grantham Av Pk',43.19545833,-79.221285
-1237,'1237','Fairview Mall & CIBC Bank',43.17657667,-79.24237833
-1238,'1238','Grantham Av & Grantham Plz',43.20051333,-79.22142167
-1239,'1239','4th Av & Smart Ctr',43.15562667,-79.26834167
-1240,'1240','4th Av & Vansickle Rd',43.15554667,-79.27040833
+1236,'1236','Grantham Av & Grantham Av Pk',43.1954583333333,-79.221285
+1237,'1237','Fairview Mall & CIBC Bank',43.1765766666667,-79.2423783333333
+1238,'1238','Grantham Av & Grantham Plz',43.2005133333333,-79.2214216666667
+1239,'1239','4th Av & Smart Ctr',43.1556266666667,-79.2683416666667
+1240,'1240','4th Av & Vansickle Rd',43.1555466666667,-79.2704083333333
 1241,'1241','1st St Louth & 4th Av',43.154553,-79.27621
 1242,'1242','Niagara Health System - St Cath',43.152973,-79.276837
-1243,'1243','1st St Louth & 4th Av',43.15500667,-79.27615333
-1244,'1244','4th Av & Vansickle Rd',43.15538833,-79.27094833
-1245,'1245','4th Av & Smart Ctr',43.15547667,-79.26820667
-1246,'1246','Martindale Rd & Ridley Plz',43.156335,-79.26518667
+1243,'1243','1st St Louth & 4th Av',43.1550066666667,-79.2761533333333
+1244,'1244','4th Av & Vansickle Rd',43.1553883333333,-79.2709483333333
+1245,'1245','4th Av & Smart Ctr',43.1554766666667,-79.2682066666667
+1246,'1246','Martindale Rd & Ridley Plz',43.156335,-79.2651866666667
 1247,'1247','357 Martindale Rd',43.182513,-79.279095
-1248,'1248','Rockwood Av & Woodrow St',43.14969833,-79.20288
-1249,'1249','Spg St & Queenston St',43.159625,-79.20618667
-1250,'1250','Eastchester Av & Annette St',43.16600667,-79.2131
+1248,'1248','Rockwood Av & Woodrow St',43.1496983333333,-79.20288
+1249,'1249','Spg St & Queenston St',43.159625,-79.2061866666667
+1250,'1250','Eastchester Av & Annette St',43.1660066666667,-79.2131
 1251,'1251','Eastchester Av & Queenston St',43.16177,-79.224663
-1252,'1252','Lk St & Russell Av',43.16981333,-79.25096833
+1252,'1252','Lk St & Russell Av',43.1698133333333,-79.2509683333333
 1253,'1253','Welland Av & Briarfield Plz',43.176862,-79.209532
 1254,'1254','Welland Av & Grantham Av',43.173198,-79.219761
 1256,'1256','Merritt St & Seymour Av',43.144517,-79.21411
-1280,'1280','Bunting Rd & Maltese Blvd',43.21075,-79.21198667
-1281,'1281','Geneva St & Draper Dr',43.20281833,-79.2421
+1280,'1280','Bunting Rd & Maltese Blvd',43.21075,-79.2119866666667
+1281,'1281','Geneva St & Draper Dr',43.2028183333333,-79.2421
 1283,'1283','Louth St & Crestcombe Dr',43.151474,-79.260231
 1284,'1284','Cumming St & Rykert St',43.1424,-79.2527
 1285,'1285','Glenridge Av & Main Brock Entran',43.118425,-79.243412
 1286,'1286','Schmon Pkwy & Lofts',43.116211,-79.239662
-1287,'1287','Westchester Cr & Oakdale Ave',43.15848065,-79.22867973
+1287,'1287','Westchester Cr & Oakdale Ave',43.1584806510747,-79.2286797344423
 1290,'1290','Townline Rd W & Queen St N',43.1309,-79.2057
 1294,'1294','Schmon Pkwy & LifeLabs',43.114361,-79.23864
-1296,'1296','Confederation Av & Collier Rd',43.11007756,-79.21563921
+1296,'1296','Confederation Av & Collier Rd',43.110077556374,-79.2156392097604
 1299,'1299','Richmond St & Manley Cr Path',43.110576,-79.231747
 1300,'1300','Richmond St & Calcott Cr',43.112734,-79.230325
-1301,'1301','Richmond St & Confederation Av',43.11459651,-79.22629155
-1302,'1302','Pine St S & Lynden St W',43.11898116,-79.20281793
-1303,'1303','Pine St S & Gdn St',43.12059008,-79.20292173
+1301,'1301','Richmond St & Confederation Av',43.1145965081502,-79.2262915491665
+1302,'1302','Pine St S & Lynden St W',43.1189811582501,-79.2028179323242
+1303,'1303','Pine St S & Gdn St',43.1205900771662,-79.2029217335446
 1305,'1305','1st St Louth & 2032 1st St L',43.15151,-79.27608
 1307,'1307','Albert St & Pine St N',43.1249,-79.203
 1308,'1308','Geneva St & Fairview Mall',43.17774,-79.24087
 1309,'1309','Pen Ctr West Entrance',43.132397,-79.226762
 1310,'1310','Welland Av & York St',43.16141,-79.25261
 1313,'1313','Front St & Regent St',43.127852,-79.200837
-1314,'1314','Martindale Rd & 4th Av',43.15615365,-79.26547261
+1314,'1314','Martindale Rd & 4th Av',43.1561536506701,-79.2654726147521
 1338,'1338','McGuire St& St Paul St W',43.153967,-79.245769
 1340,'1340','Sir Isaac Brock Way & Schmon Pkw',43.118195,-79.239633
-1342,'1342','St Paul St W & Bellevue Terr',43.14974805,-79.2485198
-1344,'1344','Geneva St & Maple St',43.16724667,-79.24044667
+1342,'1342','St Paul St W & Bellevue Terr',43.149748053,-79.248519801
+1344,'1344','Geneva St & Maple St',43.1672466666667,-79.2404466666667
 1348,'1348','Lakeshore Rd & Vine St',43.2097,-79.232437
 1349,'1349','Decew Rd & Richmond St',43.108038,-79.231705
 1350,'1350','Decew Rd & Decew Woods Ct',43.107237,-79.228677
@@ -864,7 +864,7 @@
 1353,'1353','3280 Schmon Pkwy',43.111638,-79.241107
 1356,'1356','Queenston St & Ida St',43.162305,-79.227494
 1357,'1357','Smart Ctr & Benfield Dr',43.150738,-79.266697
-1358,'1358','4th Av & N Hosp Entrance',43.15532289,-79.27850454
+1358,'1358','4th Av & N Hosp Entrance',43.1553228902892,-79.2785045383862
 1359,'1359','3rd St Louth & 4th Av',43.154584,-79.286779
 1360,'1360','Pathstone Way & Branscombe Menta',43.153536,-79.286002
 1362,'1362','4th Av & Hosp Entrance S',43.155011,-79.279524
@@ -904,7 +904,7 @@
 1400,'1400','Schmon Pkwy & Merrittville Hwy',43.111677,-79.242435
 1401,'1401','113 Cushman Rd',43.172586,-79.199668
 1402,'1402','110 Cushman Rd',43.173148,-79.199594
-1403,'1403','Queenston St & Riordon St',43.1623535,-79.23917767
+1403,'1403','Queenston St & Riordon St',43.1623534994447,-79.2391776700595
 2201,'2201','Niagara Falls Rd & Mackan St',43.105831,-79.192284
 2202,'2202','Niagara Falls Rd & Morton St',43.105789,-79.195229
 2203,'2203','Niagara Falls Rd & Allanburg Rd',43.104778,-79.198914
@@ -918,10 +918,10 @@
 2222,'2222','Barker Pkwy & Sunset Way',43.094783,-79.189473
 100000,'DTT','Downtown Terminal',43.160076,-79.243553
 100002,'PEN','Pen Ctr',43.134869,-79.223701
-100005,'BAS','Barker Pkwy & Sunset Way',43.09460758,-79.1893482
+100005,'BAS','Barker Pkwy & Sunset Way',43.0946075807591,-79.1893481962661
 100006,'BRU','Brock University',43.118878,-79.248973
 100008,'FVM','Fairview Mall',43.178413,-79.245514
 100022,'WAL','Smart Ctr - W St Catharines',43.152443,-79.266052
-100035,'CTO','Thorold Towpath Terminal',43.12382222,-79.2020804
+100035,'CTO','Thorold Towpath Terminal',43.1238222228129,-79.2020804033036
 101205,'AlnbgLyn','Allanburg Rd & Lynn Cr',43.090845,-79.199535
 1410101,'NiFlsAll','Niagara Falls Rd & Allanburg Rd',43.104641,-79.198898
