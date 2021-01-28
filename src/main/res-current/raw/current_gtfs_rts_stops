@@ -59,7 +59,7 @@
 62,'62','Martindale Rd + Dalemere Blvd',43.188353,-79.286032
 63,'63','Martindale Rd + Golden Blvd',43.18438,-79.280898
 64,'64','Martindale Rd + Brooklyn Ct',43.180048,-79.277623
-66,'66','Martindale Rd + Qew South',43.175615,-79.275208
+66,'66','Martindale Rd + Qew S',43.175615,-79.275208
 67,'67','Martindale Rd + Hanover Dr',43.173698,-79.274095
 68,'68','Martindale Rd + Erion Rd',43.172427,-79.273397
 69,'69','Erion Rd + Huntington Plz',43.172093,-79.275082
@@ -84,7 +84,7 @@
 90,'90','Ontario St + Church St',43.156803,-79.249793
 91,'91','Ontario St + Montebello Pk',43.158265,-79.252653
 92,'92','Ontario St + NHS Ontario St Site',43.1598,-79.254672
-93,'93','Ontario St + Welland Ave North',43.160762,-79.255937
+93,'93','Ontario St + Welland Ave N',43.160762,-79.255937
 94,'94','Ontario St + Woodruff Ave',43.16189,-79.257358
 95,'95','Ontario St + Lowell Ave',43.163368,-79.259138
 96,'96','Ontario St + Pleasant Ave',43.164965,-79.260918
@@ -205,7 +205,7 @@
 226,'226','St Davids Rd + Marmac Dr',43.126023,-79.218592
 227,'227','St Davids Rd + Barbican Gt',43.124648,-79.222478
 228,'228','Sir Isaac Brock Way + Schmon Pkwy',43.11766,-79.24184
-231,'231','Brock University Daycare',43.116573,-79.249935
+231,'231','Brock U Daycare',43.116573,-79.249935
 234,'234','St Davids Rd + Tupper Dr',43.124497,-79.222438
 235,'235','St Davids Rd + Marmac Dr',43.126158,-79.217972
 236,'236','St Davids Rd + Burleigh Hl Dr',43.126922,-79.21593
@@ -250,7 +250,7 @@
 281,'281','Cayuga Ave + Thorndale Ave',43.176417,-79.25313
 282,'282','Springdale Dr + Thorndale Ave',43.17532,-79.252607
 283,'283','Mohawk Dr + Lk St',43.17536,-79.251685
-284,'284','North Service Rd + Best Western',43.17888,-79.250325
+284,'284','N Service Rd + Best Western',43.17888,-79.250325
 286,'286','YMCA Dr + Home Depot',43.179373,-79.246932
 287,'287','Lk St + Performance Cars',43.180048,-79.251407
 288,'288','Scott St + Lk St',43.180868,-79.252432
@@ -283,7 +283,7 @@
 316,'316','Scott St + Meadowvale Dr',43.178802,-79.257152
 317,'317','Scott St + St Catharines Pl',43.179985,-79.25422
 318,'318','Scott St + Lk St',43.180855,-79.252077
-320,'320','Lk St + North Service Rd',43.178698,-79.251542
+320,'320','Lk St + N Service Rd',43.178698,-79.251542
 321,'321','Lk St + Dunlop Dr',43.175487,-79.251327
 322,'322','Thorndale Ave + Springdale Ave',43.175265,-79.252653
 323,'323','Cayuga Ave + Thorndale Av',43.176385,-79.253195
@@ -406,7 +406,7 @@
 461,'461','Welland Ave + Geneva St',43.165903,-79.239858
 462,'462','Welland Ave + Niagara St',43.166762,-79.237458
 463,'463','Welland Ave + Page St',43.167778,-79.23463
-465,'465','Welland Ave + East St',43.168995,-79.231188
+465,'465','Welland Ave + E St',43.168995,-79.231188
 466,'466','Welland Ave + Vine St',43.169662,-79.22928
 467,'467','Welland Ave + Berryman Ave',43.170433,-79.227008
 468,'468','Welland Ave + Dieppe Rd',43.171935,-79.222763
@@ -710,7 +710,7 @@
 832,'832','Glenridge Ave + Victor Blvd',43.13111,-79.23885
 833,'833','Glenridge Ave + Sovereign Dr',43.129377,-79.238802
 834,'834','Glenridge Ave + Hotel Dieu Shaver Hosp',43.121533,-79.243458
-838,'838','Glenridge Ave + East Academic Complex',43.118037,-79.24326
+838,'838','Glenridge Ave + E Academic Complex',43.118037,-79.24326
 839,'839','Glenridge Ave + Hotel Shaver Hosp',43.122208,-79.243418
 840,'840','Glenridge Ave + Woodside Dr',43.12894,-79.238698
 841,'841','Glenridge Ave + Victor Blvd',43.131188,-79.23885
@@ -885,7 +885,7 @@
 1045,'1045','Decew Rd + Richmond St',43.107482,-79.231575
 1061,'1061','Wood St + Greenmeadow',43.178403,-79.237903
 1062,'1062','Glenridge Ave + Glenridge Plz',43.141942,-79.239485
-1063,'1063','Geneva St + North Service Rd',43.1759,-79.240837
+1063,'1063','Geneva St + N Service Rd',43.1759,-79.240837
 1064,'1064','Wood St + Carlton St',43.177157,-79.235512
 1067,'1067','Isaac Brock Blvd + Meter Rd',43.116788,-79.246788
 1071,'1071','Tupper Dr + Sullivan Ave',43.122177,-79.221127
@@ -932,7 +932,7 @@
 1229,'1229','Niagara St + Tecumseh St',43.205305,-79.220022
 1230,'1230','Wood St + Geneva St',43.179112,-79.240153
 1231,'1231','Lakeshore Rd + Vine St',43.209795,-79.232515
-1233,'1233','St Davids Rd + West St',43.129623,-79.207005
+1233,'1233','St Davids Rd + W St',43.129623,-79.207005
 1236,'1236','Grantham Ave + Grantham Ave Pk',43.195458,-79.221285
 1237,'1237','Fairview Mall + Cibc Bank',43.176577,-79.242378
 1238,'1238','Grantham Ave + Grantham Ave Plz',43.200513,-79.221422
@@ -957,7 +957,7 @@
 1281,'1281','Geneva St + Draper Dr',43.202818,-79.2421
 1283,'1283','Louth St + Crestcombe Dr',43.151033,-79.260195
 1284,'1284','Cumming St + Rykert St',43.142418,-79.25271
-1285,'1285','Glenridge Ave + East Academic Crosswalk',43.119059,-79.243455
+1285,'1285','Glenridge Ave + E Academic Crosswalk',43.119059,-79.243455
 1286,'1286','Schmon Pkwy + The Lofts',43.114985,-79.238859
 1287,'1287','Westchester Cr + Oakdale Ave',43.15856,-79.228765
 1290,'1290','Townline Rd W + Queen St N',43.130912,-79.205708
@@ -972,7 +972,7 @@
 1305,'1305','2032 1st St Louth',43.15151,-79.276082
 1307,'1307','Albert St + Pine St N',43.124895,-79.202983
 1308,'1308','Geneva St + Fairview Mall Main Entrance',43.177737,-79.240868
-1309,'1309','Glendale Ave + Pen Ctr West Entrance',43.132397,-79.226762
+1309,'1309','Glendale Ave + Pen Ctr W Entrance',43.132397,-79.226762
 1310,'1310','Welland Ave + York St',43.161413,-79.252607
 1311,'1311','428 Carlton St',43.180462,-79.2253
 1312,'1312','Oblate St + Garnet St',43.178764,-79.22398
@@ -993,10 +993,10 @@
 1355,'1355','St Davids Rd E + Ormond St N',43.129812,-79.199434
 1356,'1356','Queenston St + Ida St',43.162305,-79.227494
 1357,'1357','Smart Ctr + Benfield Dr',43.150738,-79.266697
-1358,'1358','4th Ave + North Hosp Entrance (N)',43.15527,-79.279082
+1358,'1358','4th Ave + N Hosp Entrance (N)',43.15527,-79.279082
 1359,'1359','3rd St Louth + 4th Ave',43.154584,-79.286779
 1360,'1360','Pathstone Way + Branscombe Mental Health Ctr',43.153536,-79.286002
-1362,'1362','4th Ave + North Hosp Entrance (S)',43.155011,-79.279524
+1362,'1362','4th Ave + N Hosp Entrance (S)',43.155011,-79.279524
 1364,'1364','Welland Ave + Grantham Av',43.173112,-79.219397
 1365,'1365','Welland Ave + Export Ave',43.173926,-79.21723
 1366,'1366','Welland Ave + Neilson Ave',43.174966,-79.214344
@@ -1047,7 +1047,7 @@
 2222,'2222','Barker Pkwy + Sunset Way',43.094783,-79.189473
 100000,'DTT','St Catharines Bus Term',43.160076,-79.243553
 100002,'PEN','Pen Ctr',43.134869,-79.223701
-100006,'BRU','Brock University',43.118878,-79.248973
+100006,'BRU','Brock U',43.118878,-79.248973
 100008,'FVM','Fairview Mall',43.178413,-79.245514
-100022,'WAL','West St Catharines Smart Ctr',43.152443,-79.266052
+100022,'WAL','W St Catharines Smart Ctr',43.152443,-79.266052
 100035,'CTO','Thorold Towpath Term',43.123822,-79.20208

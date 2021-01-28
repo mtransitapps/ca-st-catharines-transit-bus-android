@@ -39,10 +39,10 @@
 32200,0,'Port Robinson',322
 32201,0,'Thorold South',322
 32301,0,'Brock',323
-32300,0,'West Brock Commuter',323
-32401,0,'Brock University',324
+32300,0,'W Brock Commuter',323
+32401,0,'Brock U',324
 32400,0,'Tupper Dr',324
-33101,0,'Brock University',331
+33101,0,'Brock U',331
 33100,0,'Richmond St',331
 33200,0,'Brock',332
 33201,0,'Thorold Downtown',332
@@ -82,9 +82,9 @@
 42000,0,'Thorold',420
 42100,0,'Brock',421
 42101,0,'Thorold',421
-42301,0,'Brock University',423
-42300,0,'West Brock Commuter',423
-43101,0,'Brock University',431
+42301,0,'Brock U',423
+42300,0,'W Brock Commuter',423
+43101,0,'Brock U',431
 43100,0,'Richmond St',431
 43501,0,'Brock',435
 43500,0,'Pen Ctr',435
