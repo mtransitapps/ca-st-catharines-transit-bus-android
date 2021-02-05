@@ -10,7 +10,7 @@
 10,'10','Grapeview Dr + Vansickle Rd N',43.164433,-79.270885
 11,'11','Grapeview Dr + Stoney Brk Cres',43.163303,-79.273985
 12,'12','Grapeview Dr + 1st St Louth',43.162493,-79.27625
-13,'13','1st St Louth + Grapeview School',43.16433,-79.276552
+13,'13','1st St Louth + Grapeview S',43.16433,-79.276552
 14,'14','1st St Louth + Endicott Dr',43.166475,-79.276598
 15,'15','1st St Louth + Huntington Ln',43.169518,-79.276678
 16,'16','1st St Louth + Erion Rd',43.171705,-79.27675
@@ -53,7 +53,7 @@
 55,'55','Bayview Dr + Graham Av',43.19789,-79.278768
 56,'56','Bayview Dr + Corbett Av',43.196825,-79.280327
 58,'58','Corbett Av + Main St',43.19503,-79.27888
-59,'59','Main St + St Ann School',43.193655,-79.280723
+59,'59','Main St + St Ann S',43.193655,-79.280723
 60,'60','Main St + Cole Farm Blvd',43.191715,-79.28372
 61,'61','Martindale Rd + Main St',43.190262,-79.286692
 62,'62','Martindale Rd + Dalemere Blvd',43.188353,-79.286032
@@ -67,7 +67,7 @@
 71,'71','1st St Louth + Maracay Way',43.169622,-79.27679
 72,'72','1st St Louth + Dunbar Cr',43.167032,-79.27671
 73,'73','1st St Louth + 3Rd Ave Louth',43.164695,-79.276638
-74,'74','1st St Louth + Mother Teresa School',43.162835,-79.276575
+74,'74','1st St Louth + Mother Teresa S',43.162835,-79.276575
 75,'75','Grapeview Dr + Stoney Brk Cr',43.16336,-79.273747
 76,'76','Grapeview Dr + Vansickle Dr',43.16417,-79.271488
 77,'77','Grapeview Dr + Martindale Rd',43.165212,-79.268517
@@ -272,7 +272,7 @@
 305,'305','Linwell Rd + Sherman Dr',43.193257,-79.244548
 306,'306','Linwell Rd + Howard Ave',43.192463,-79.247155
 307,'307','Linwell Rd + Linfield Dr',43.191612,-79.249538
-308,'308','Linwell Rd + Eden Secondary School',43.190357,-79.252885
+308,'308','Linwell Rd + Eden SS',43.190357,-79.252885
 309,'309','Linwell Rd + Lakeport Rd',43.189602,-79.254703
 310,'310','Linwell Rd + Bill Burgoyne Arena',43.18856,-79.257335
 311,'311','Linwell Rd + Linwell Mnr',43.187018,-79.260808
@@ -323,7 +323,7 @@
 359,'359','Lk St + Heidehof',43.196716,-79.252243
 361,'361','Lk St + Lakeshore Rd',43.19925,-79.25244
 362,'362','Lk St + Heidehof',43.196595,-79.252407
-363,'363','Lk St + St Francis School',43.193495,-79.252272
+363,'363','Lk St + St Francis S',43.193495,-79.252272
 364,'364','Lk St + Linwell Rd',43.191548,-79.252168
 365,'365','Lk St + Lakeport Rd',43.189218,-79.252049
 366,'366','Lk St + Arran Dr',43.186312,-79.251907
@@ -389,7 +389,7 @@
 436,'436','Niagara St + Scott St',43.189513,-79.225903
 437,'437','Niagara St + Grenadier Dr',43.187965,-79.22584
 438,'438','Niagara St + Meadowbrook Cr',43.186017,-79.225728
-439,'439','Niagara St + Laura Secord Secondary School',43.183927,-79.225648
+439,'439','Niagara St + Laura Secord SS',43.183927,-79.225648
 440,'440','Niagara St + Lester B Pearson Pk',43.181495,-79.226578
 446,'446','Augusta Av + Facer St',43.176273,-79.224258
 447,'447','Facer St + Polish Hall',43.175503,-79.226325
@@ -621,7 +621,7 @@
 712,'712','Scott St + Jubilee Dr',43.191135,-79.222788
 713,'713','Scott St + Grantham Ave',43.191637,-79.221357
 714,'714','Scott St + Edinburgh Dr',43.192685,-79.218393
-715,'715','Scott St + Canadian Martyrs School',43.193583,-79.215842
+715,'715','Scott St + Canadian Martyrs S',43.193583,-79.215842
 716,'716','Scott St + Tavistock Rd',43.194203,-79.21403
 717,'717','Scott St + Bunting Rd',43.195077,-79.211478
 718,'718','Scott St + St Lawrence Dr',43.196222,-79.208292
@@ -822,7 +822,7 @@
 968,'968','Collier Rd + Sullivan Ave',43.12251,-79.215405
 969,'969','Collier Rd + Elgin St',43.119863,-79.215357
 971,'971','Collier Rd + Richmond St',43.117663,-79.215293
-972,'972','Richmond St + By School',43.117187,-79.212982
+972,'972','Richmond St + By S',43.117187,-79.212982
 973,'973','93 Richmond St',43.11725,-79.210342
 974,'974','Richmond St + Crompton Blvd',43.117322,-79.2078
 975,'975','Richmond St + Queen St',43.1174,-79.205232
@@ -833,7 +833,7 @@
 981,'981','Ormond St S + Albert St E',43.124815,-79.198947
 982,'982','Ormond St N + Regent St',43.126762,-79.199033
 983,'983','Ormond St + Thorold Arena',43.127858,-79.199073
-984,'984','Ormond St N + Thorold High School',43.129178,-79.19916
+984,'984','Ormond St N + Thorold HS',43.129178,-79.19916
 985,'985','Front St + Thorold Arena',43.12913,-79.200773
 986,'986','Front St + Albert St',43.125277,-79.200742
 987,'987','Front St + Clairmont St',43.123862,-79.200663
@@ -962,7 +962,7 @@
 1287,'1287','Westchester Cr + Oakdale Ave',43.15856,-79.228765
 1290,'1290','Townline Rd W + Queen St N',43.130912,-79.205708
 1294,'1294','3460 Schmon Pkwy',43.113369,-79.238613
-1295,'1295','Lakeport Rd + Eden High School',43.190087,-79.253282
+1295,'1295','Lakeport Rd + Eden HS',43.190087,-79.253282
 1296,'1296','Confederation Av + Collier Rd',43.110153,-79.215563
 1299,'1299','Richmond St + Manley Cres Path',43.110576,-79.231747
 1300,'1300','Richmond St + Calcott Cr',43.112734,-79.230325
