@@ -14,7 +14,7 @@
 14,'14','1st St Louth + Endicott Dr',43.166475,-79.276598
 15,'15','1st St Louth + Huntington Ln',43.169518,-79.276678
 16,'16','1st St Louth + Erion Rd',43.171705,-79.27675
-17,'17','Erion Rd + Huntington Plz',43.172078,-79.274318
+17,'17','Erion Rd + Huntington Sq',43.172078,-79.274318
 18,'18','Martindale Rd + Hannover Dr',43.173635,-79.27392
 19,'19','Martindale Rd + Corporate Pk Dr',43.176115,-79.27524
 20,'20','Martindale Rd + Brooklyn Ct',43.180455,-79.27772
@@ -62,7 +62,7 @@
 66,'66','Martindale Rd + S Service Rd',43.175615,-79.275208
 67,'67','Martindale Rd + Hannover Dr',43.173698,-79.274095
 68,'68','Martindale Rd + Erion Rd',43.172427,-79.273397
-69,'69','Erion Rd + Huntington Plz',43.172093,-79.275082
+69,'69','Erion Rd + Huntington Sq',43.172093,-79.275082
 70,'70','1st St Louth + Erion Rd',43.171537,-79.276877
 71,'71','1st St Louth + Maracay Way',43.169622,-79.27679
 72,'72','1st St Louth + Dunbar Cr',43.167032,-79.27671
@@ -112,7 +112,7 @@
 120,'120','Lakeshore Rd + Clifford St',43.207261,-79.237133
 121,'121','Lakeshore Rd + Loyalist Dr',43.208707,-79.234398
 123,'123','Lakeshore Rd + Loyalist Dr',43.20881,-79.234423
-124,'124','Lakeshore Rd + Tanner Cr',43.207245,-79.237412
+124,'124','Lakeshore Rd + Tanner Cir',43.207245,-79.237412
 125,'125','Lakeshore Rd + Aquadale Dr',43.205902,-79.240002
 126,'126','Lakeshore Rd + Geneva St',43.204248,-79.24326
 127,'127','Lakeshore Rd + Shoreline Dr',43.202477,-79.24659
@@ -149,7 +149,7 @@
 160,'160','St Paul St W + Mcdonald St',43.14903,-79.250095
 161,'161','Pelham Rd + Monck St',43.147298,-79.25069
 162,'162','Pelham Rd + Chetwood St',43.14462,-79.250802
-163,'163','Pelham Rd + Josephine St',43.142792,-79.250897
+163,'163','Pelham Rd + Cumming St',43.142354,-79.250929
 164,'164','Pelham Rd + Kent St',43.141028,-79.251207
 165,'165','Pelham Rd + Wallace St',43.138318,-79.25193
 166,'166','Pelham Rd + Parker St',43.136378,-79.252923
@@ -326,7 +326,7 @@
 364,'364','Lk St + Linwell Rd',43.191548,-79.252168
 365,'365','Lk St + Lakeport Rd',43.189218,-79.252049
 366,'366','Lk St + Arran Dr',43.186312,-79.251907
-367,'367','Lk St + Westgate Sq',43.183125,-79.251723
+367,'367','Lk St + Westgate Plz',43.183125,-79.251723
 368,'368','Lk St + Scott St',43.181257,-79.251637
 369,'369','Lk St + Erindale Ave',43.174367,-79.251287
 370,'370','Lk St + Lk-Carlton Plz',43.172642,-79.2512
@@ -495,7 +495,7 @@
 563,'563','Geneva St + Glenholme Dr',43.200537,-79.242083
 564,'564','557 Geneva St',43.198685,-79.24198
 565,'565','Geneva St + St Columba Dr',43.196348,-79.241838
-566,'566','Geneva St + Parnell S',43.194497,-79.241767
+566,'566','Geneva St + Parnall S',43.194497,-79.241767
 567,'567','Geneva St + Linwell Rd',43.193447,-79.241745
 568,'568','Geneva St + Millward Ave',43.191493,-79.241607
 569,'569','Geneva St + Thompson Ave',43.188585,-79.24144
@@ -682,6 +682,7 @@
 794,'794','Glendale Ave + Glenridge Ave',43.13467,-79.239508
 795,'795','Glendale Ave + Marsdale Dr',43.135003,-79.242465
 796,'796','Glendale Ave + Riverview Blvd',43.134217,-79.246002
+797,'797','Glendale Ave + Pelham Rd',43.13348,-79.25442
 798,'798','Pelham Rd + David St',43.134693,-79.25391
 799,'799','Pelham Rd + Parker St',43.13606,-79.253115
 800,'800','Pelham Rd + Mckay St',43.13829,-79.25189
@@ -780,11 +781,12 @@
 914,'914','Westchester Cr + Geneva St',43.156938,-79.238882
 916,'916','Eastchester Ave + Mitchell St',43.162,-79.2239
 917,'917','Eastchester Av + Yale Cr',43.162605,-79.222168
-918,'918','Eastchester Av + Blair Cr',43.163042,-79.220928
+918,'918','Eastchester Av + Grantham Av S',43.163296,-79.220183
 920,'920','Eastchester Ave + Marmora St',43.164178,-79.217828
 921,'921','Eastchester Ave + Lorne St',43.164672,-79.216517
 922,'922','Eastchester Ave + Laird Dr',43.165275,-79.214888
 923,'923','Eastchester Ave + Annette St',43.165887,-79.213252
+925,'925','Queenston St + Bunting Rd',43.159083,-79.208722
 926,'926','Queenston St + Spg St',43.159608,-79.206417
 927,'927','Spg St + Rosedale Ave',43.15755,-79.204812
 928,'928','Rosedale Av + Greenwood Ave',43.156565,-79.203302
@@ -806,7 +808,7 @@
 951,'951','Dunvegan Rd + Ferndale Ave',43.151105,-79.212027
 952,'952','Ferndale Ave + Alexandra Blvd',43.152607,-79.21225
 953,'953','Ferndale Ave + Battersea Ave',43.154848,-79.212305
-954,'954','Bloomfield Ave + Lawson Ave',43.155325,-79.208418
+954,'954','Bloomfield Ave + Lawson St',43.155325,-79.208418
 955,'955','Bloomfield Ave + Woodrow St',43.155357,-79.206687
 957,'957','Bloomfield Ave + Dundonald St',43.15542,-79.20284
 958,'958','Rosedale Av + Beatrice St',43.15647,-79.202983
@@ -931,7 +933,7 @@
 1233,'1233','St Davids Rd + W St',43.129623,-79.207005
 1236,'1236','Grantham Ave + Grantham Ave Pk',43.195458,-79.221285
 1237,'1237','Fairview Mall + Cibc Bank',43.176577,-79.242378
-1238,'1238','Grantham Ave + Grantham Ave Plz',43.200513,-79.221422
+1238,'1238','Grantham Ave + Linwell Plz',43.200513,-79.221422
 1239,'1239','4th Ave + Smart Ctr',43.155627,-79.268342
 1240,'1240','4th Ave + Vansickle Rd',43.155547,-79.270408
 1241,'1241','1st St Louth + 4th Ave',43.154553,-79.27621
