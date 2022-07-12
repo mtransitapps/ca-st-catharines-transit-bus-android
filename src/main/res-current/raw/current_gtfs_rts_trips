@@ -38,14 +38,10 @@
 32101,0,'Thorold',321
 32200,0,'Allanburg Rd + Hodgkins Ave',322
 32201,0,'Thorold Towpath Term',322
-32301,0,'Brock',323
-32300,0,'W St Catharines',323
 32401,0,'Brock',324
 32400,0,'Tupper Dr',324
 33101,0,'Brock',331
 33100,0,'Richmond St',331
-33200,0,'Brock',332
-33201,0,'Thorold',332
 33501,0,'Brock',335
 33500,0,'Pen Ctr',335
 33600,0,'Brock U',336
@@ -94,8 +90,6 @@
 43201,0,'Thorold',432
 43501,0,'Brock',435
 43500,0,'Pen Ctr',435
-43600,0,'Brock U',436
-43601,0,'Pen Ctr',436
 43700,0,'Hosp',437
 43701,0,'Seapark',437
 43801,0,'Downtown',438
