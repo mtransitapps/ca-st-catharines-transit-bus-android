@@ -1,2 +1,1 @@
-St Catharines Transit Bus for MonTransit.
-Schedule. Real-Time. News.
+St Catharines Transit Bus for MonTransit. Schedule. Real-Time. News.
