@@ -231,7 +231,7 @@
 263,'263','Clark St + Welland Av',43.162862,-79.246568
 264,'264','Catherine St + Hetherington St',43.166085,-79.245628
 265,'265','Catherine St + Beech St',43.167179,-79.245575
-266,'266','Catherine St + Russell Ave',43.170138,-79.245818
+266,'266','Catherine St + Russell Ave',43.169722,-79.245833
 267,'267','Russell Ave + George St',43.170273,-79.247265
 268,'268','Russell Ave + Henry St',43.170233,-79.249142
 269,'269','Lk St + Stuart Ave',43.17133,-79.250953
@@ -280,7 +280,7 @@
 314,'314','Meadowvale Dr + St Helena St',43.179563,-79.26111
 315,'315','St Helena St + Meadowvale Dr',43.179818,-79.25964
 316,'316','Scott St + Meadowvale Dr',43.178802,-79.257152
-317,'317','Scott St + St Catharines Pl',43.179985,-79.25422
+317,'317','Scott St + Elma St',43.179985,-79.25422
 318,'318','Scott St + Lk St',43.180855,-79.252077
 320,'320','Lk St + N Service Rd',43.178698,-79.251542
 321,'321','Lk St + Springdale Av',43.175487,-79.251327
@@ -636,7 +636,7 @@
 729,'729','Cushman Rd',43.18287,-79.20025
 730,'730','Cushman Rd + Welland Ave',43.180597,-79.200012
 731,'731','Welland Av + Cushman Rd',43.180048,-79.200857
-732,'732','Welland Ave + Dorchester Blvd S',43.177737,-79.20706
+732,'732','Welland Ave + Dorchester Blvd S',43.177923,-79.206453
 733,'733','603 Welland Ave',43.179342,-79.20271
 734,'734','Welland Ave + Bunting Rd',43.175805,-79.212488
 735,'735','Welland Ave + Neilson Ave',43.17419,-79.21687
@@ -668,6 +668,7 @@
 777,'777','Rykert St + Louth St',43.139668,-79.26014
 778,'778','Rykert St + Edith St',43.140868,-79.256962
 779,'779','Rykert St + Churchill St',43.141393,-79.255538
+780,'780','Cumming St + Pelham Rd',43.14214,-79.251097
 781,'781','Glendale Ave + Pelham Rd',43.133312,-79.254378
 783,'783','Glendale Ave + Marsdale Dr',43.13486,-79.24229
 784,'784','Glendale Ave + Glenridge Ave',43.134487,-79.239508
