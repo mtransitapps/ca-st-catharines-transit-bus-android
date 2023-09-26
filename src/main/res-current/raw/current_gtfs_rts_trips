@@ -38,10 +38,14 @@
 32101,0,'Thorold',321
 32201,0,'Downtown Thorold',322
 32200,0,'Thorold S',322
+32301,0,'Brock',323
+32300,0,'W St Catharines',323
 32401,0,'Brock',324
 32400,0,'Tupper Dr',324
 33101,0,'Brock',331
 33100,0,'Richmond St',331
+33200,0,'Brock',332
+33201,0,'Thorold',332
 33501,0,'Brock',335
 33500,0,'Pen Ctr',335
 33600,0,'Brock U',336
@@ -76,17 +80,20 @@
 41800,0,'Pen Ctr',418
 42001,0,'Pen Ctr',420
 42000,0,'Thorold',420
+42100,0,'Brock',421
+42101,0,'Thorold',421
 42301,0,'Brock',423
 42300,0,'W St Catharines',423
 42401,0,'Brock',424
 42400,0,'Tupper Dr',424
+42501,0,'Downtown Express',425
 43101,0,'Brock',431
 43100,0,'Richmond St',431
 43200,0,'Brock',432
 43201,0,'Thorold',432
 43501,0,'Brock',435
 43500,0,'Pen Ctr',435
+43600,0,'Brock U',436
+43601,0,'Pen Ctr',436
 43700,0,'Hosp',437
 43701,0,'Seapark',437
-43801,0,'Downtown',438
-43800,0,'Train Sta',438
