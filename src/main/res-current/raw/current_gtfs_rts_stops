@@ -97,11 +97,6 @@
 104,'104','Ontario St + Meadowvale Dr',43.181773,-79.266975,0
 105,'105','Ontario St + Linhaven',43.183395,-79.266068,0
 106,'106','Ontario St + Juliana Cr',43.18473,-79.26537,0
-107,'107','Ontario St + Linwell Rd',43.186375,-79.264337,0
-108,'108','Ontario St + Jaycee Gdns Pk',43.189347,-79.262778,0
-109,'109','Ontario St + Chapleau Gt',43.191373,-79.261762,0
-110,'110','Ontario St + Lakehurst Dr',43.193003,-79.261022,0
-111,'111','Ontario St + Philpark Rd',43.194608,-79.260355,0
 113,'113','Lakeshore Rd + Crescentwood Dr',43.198288,-79.257215,0
 114,'114','Lakeshore Rd + Lk St',43.199488,-79.254005,0
 115,'115','Lakeshore Rd + 614 Lk St',43.200218,-79.251987,0
@@ -121,11 +116,6 @@
 130,'130','Lakeshore Rd + Lk St',43.199592,-79.253847,0
 131,'131','Lakeshore Rd + Westgate Pk',43.198829,-79.255934,0
 132,'132','Lakeshore Rd + Lakeport Rd',43.197048,-79.25991,0
-133,'133','Ontario St + Philpark Rd',43.194935,-79.260315,0
-134,'134','Ontario St + Lakehurst Dr',43.192788,-79.261182,0
-135,'135','Ontario St + Chapleau Gt',43.19096,-79.262023,0
-136,'136','Ontario St + Jaycee Gdns Pk',43.189347,-79.262842,0
-137,'137','Ontario St + Regatta Dr',43.186383,-79.264472,0
 138,'138','Ontario St + Royal Henley Blvd',43.184563,-79.26552,0
 139,'139','Ontario St + Linhaven',43.183442,-79.266157,0
 140,'140','Ontario St + Henley Plz',43.181813,-79.267102,0
@@ -136,6 +126,7 @@
 145,'145','Ontario St + 327 Ontario St',43.169495,-79.264337,0
 147,'147','Ontario St + Carlton St',43.167382,-79.263565,0
 148,'148','Ontario St + Pleasant Av',43.16533,-79.26138,0
+149,'149','Ontario St + Lowell Av',43.163082,-79.258822,0
 150,'150','Ontario St + Woodruff Av',43.162278,-79.257977,0
 151,'151','Ontario St + Welland Ave',43.161134,-79.256593,0
 152,'152','Ontario St + 153 Ontario St',43.159482,-79.254243,0
@@ -168,14 +159,6 @@
 182,'182','Benfield Dr + Louth St',43.151837,-79.262977,0
 183,'183','Louth St + Ridley Rd',43.149365,-79.260228,0
 184,'184','Louth St + St Paul St W',43.145597,-79.260045,0
-185,'185','Chetwood St + Louth St',43.14292,-79.25948,0
-186,'186','Chetwood St + Edith St',43.143357,-79.258233,0
-187,'187','Chetwood St + Lloyd St',43.144255,-79.255665,0
-188,'188','Chetwood St + Merigold St',43.144723,-79.254378,0
-189,'189','Merigold St + St Paul St W',43.146463,-79.25538,0
-190,'190','St Paul St W + Leeper St',43.146965,-79.254593,0
-191,'191','St Paul St W + Dexter St',43.148102,-79.251723,0
-192,'192','St Paul St W + Flummerfelt St',43.149033,-79.249931,0
 195,'195','St Paul St + Queen St',43.156652,-79.245342,0
 196,'196','St Paul St + James St',43.158345,-79.243418,0
 201,'201','Oakdale Ave + Gale Cr',43.162867,-79.232325,0
@@ -455,7 +438,7 @@
 520,'520','Grantham Ave + Karen Ave',43.18132,-79.220578,0
 521,'521','Grantham Ave + Garnet St',43.179477,-79.220498,0
 522,'522','Grantham Ave + Facer St',43.177705,-79.220435,0
-523,'523','Grantham Ave + Prospect Ave',43.175742,-79.220363,0
+523,'523','Grantham Ave + Prospect Ave',43.175923,-79.220439,0
 524,'524','Grantham Ave + Homewood Ave',43.173802,-79.220325,0
 525,'525','Welland Ave + Waverly Ave',43.172403,-79.22166,0
 526,'526','Welland Ave + Parkview Ave',43.172062,-79.222613,0
@@ -548,7 +531,7 @@
 631,'631','Merritt St + Bessey St',43.135862,-79.211702,0
 632,'632','Glendale Ave + Merritt St',43.137363,-79.21291,0
 633,'633','Glendale Ave + Bessey St',43.138278,-79.210637,0
-634,'634','Glendale Ave + Keele St',43.139422,-79.207625,0
+634,'634','Glendale Ave + Keele St',43.139688,-79.206883,0
 635,'635','Glendale Ave + Metro Collision',43.140622,-79.204405,0
 636,'636','Wembly Dr + Glendale Ave',43.1423,-79.202077,0
 637,'637','Wembly Dr + St Augustine Dr',43.143372,-79.202777,0
@@ -644,11 +627,6 @@
 744,'744','Carlton St + Oblate St',43.18117,-79.223917,0
 745,'745','Rosedale Av + Spg St',43.157415,-79.204748,0
 746,'746','Carlton St + Vine St',43.178912,-79.230218,0
-747,'747','St Paul St W + Dexter St',43.148077,-79.251987,0
-748,'748','St Paul St W + Great Western St',43.147528,-79.25321,0
-749,'749','St Paul St W + Merigold St',43.146638,-79.255578,0
-750,'750','St Paul St W + Lloyd St',43.146185,-79.25685,0
-751,'751','St Paul St W + Edith St',43.145367,-79.259227,0
 752,'752','St Paul St W + Louth St',43.14501,-79.260467,0
 753,'753','St Paul St W + Seymour-Hannah Arena',43.14396,-79.26235,0
 754,'754','St Paul St W + Frederick St',43.143722,-79.264448,0
@@ -700,7 +678,6 @@
 824,'824','Vansickle Rd + St Paul St W',43.143038,-79.270162,0
 826,'826','St Paul St W + Seymour Hannah Sports Complex',43.144048,-79.261983,0
 827,'827','St Paul St W + Louth St',43.144945,-79.260442,0
-828,'828','St Paul St W + Churchill St',43.145685,-79.258153,0
 829,'829','Glenridge Ave + Oakridge Ave',43.13796,-79.23927,0
 830,'830','Glenridge Ave + Larchwood Dr',43.136442,-79.23916,0
 831,'831','Glenridge Ave + Glendale Ave',43.133892,-79.239143,0
@@ -748,7 +725,7 @@
 878,'878','Linwell Rd + Walker Ave',43.196167,-79.235798,0
 879,'879','Linwell Rd + Lynn St',43.195587,-79.23749,0
 880,'880','Linwell Rd + Duncan Dr',43.195173,-79.23869,0
-881,'881','Linwell Rd + Geneva St',43.194402,-79.240843,0
+881,'881','Linwell Rd + Geneva St',43.193801,-79.242742,0
 884,'884','Linwell Rd + Lynn St',43.195538,-79.237547,0
 885,'885','Linwell Rd + Rodger St',43.1965,-79.234598,0
 886,'886','Linwell Rd + Vine St',43.197508,-79.231657,0
@@ -849,7 +826,6 @@
 1006,'1006','Keefer Rd + Confederation Av',43.11353,-79.225315,0
 1007,'1007','Summers Dr + Crysler Cr',43.114095,-79.224092,0
 1008,'1008','Summers Dr + Silvercrest Ct',43.114762,-79.221945,0
-1010,'1010','Summers Dr + Devine Cr',43.11214,-79.220007,0
 1011,'1011','Summers Dr + Confederation Av',43.11121,-79.221072,0
 1012,'1012','Confederation Av + Keefer Rd',43.110128,-79.21794,0
 1013,'1013','Richmond St + Collier Rd',43.11725,-79.215858,0
@@ -917,11 +893,9 @@
 1213,'1213','Catherine St + Louisa St',43.164488,-79.24547,0
 1214,'1214','Russell Av + Lk St',43.170218,-79.250373,0
 1215,'1215','Benfield Dr + Benfield Ind Plz',43.150502,-79.263462,0
-1216,'1216','Chetwood St + Churchill St',43.14381,-79.256913,0
 1218,'1218','Oakdale Ave + Merritt St',43.143262,-79.214555,0
 1219,'1219','292 Oakdale Ave',43.157057,-79.229193,0
 1220,'1220','292 Oakdale Ave',43.157908,-79.22886,0
-1221,'1221','St Paul St W + Lloyd St',43.146153,-79.256865,0
 1222,'1222','Vansickle Rd + Strada Blvd',43.138103,-79.269955,0
 1223,'1223','Front St + Townline Rd E',43.133137,-79.19994,0
 1226,'1226','276 Oakdale Ave',43.156103,-79.22843,0
@@ -975,9 +949,7 @@
 1312,'1312','Oblate St + Garnet St',43.178764,-79.22398,0
 1313,'1313','Front St + Regent St',43.127852,-79.200837,0
 1314,'1314','Martindale Rd + 4th Av',43.156152,-79.265592,0
-1338,'1338','Mcguire St + St Paul St W',43.153943,-79.245892,0
 1340,'1340','Sir Isaac Brock Way + Schmon Pkwy',43.118195,-79.239633,0
-1342,'1342','St Paul St W + Hainer St',43.149802,-79.248553,0
 1344,'1344','Geneva St + Maple St',43.167247,-79.240447,0
 1345,'1345','Meadowvale Rd + Dawn Rd',43.179643,-79.263097,0
 1348,'1348','Lakeshore Rd + Vine St',43.2097,-79.232437,0
@@ -1031,6 +1003,8 @@
 1402,'1402','110 Cushman Rd',43.173148,-79.199594,0
 1403,'1403','Queenston St & Riordon St',43.162353,-79.239178,0
 1404,'1404','Merritt St + Ball Av E',43.135924,-79.202547,0
+1407,'1407','Lakeport Rd & Lakehurst Dr',43.191704,-79.255176,0
+1410,'1410','Lakeport Rd & Lakehurst Dr',43.191461,-79.255123,0
 2201,'2201','Niagara Falls Rd + Mackan St',43.10579,-79.192238,0
 2202,'2202','Niagara Falls Rd + Morton St',43.105782,-79.195178,0
 2203,'2203','Niagara Falls Rd + Allanburg Rd',43.104757,-79.198875,0
