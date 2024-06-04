@@ -2,7 +2,7 @@
 30100,0,'Port Dalhousie',301
 30201,0,'Downtown',302
 30200,0,'Lakeshore Rd',302
-30301,0,'Downtown',303
+30301,0,'Downtown Term',303
 30300,0,'Pelham Rd',303
 30401,0,'Downtown',304
 30400,0,'Pen Ctr',304
@@ -53,7 +53,7 @@
 40101,0,'Downtown',401
 40100,0,'Port Dalhousie',401
 40201,0,'Downtown',402
-40200,0,'Lakeshore Rd',402
+40200,0,'Lakeshore',402
 40301,0,'Downtown',403
 40300,0,'Smart Ctr',403
 40401,0,'Downtown',404
@@ -80,8 +80,6 @@
 41800,0,'Pen Ctr',418
 42001,0,'Pen Ctr',420
 42000,0,'Thorold',420
-42100,0,'Brock',421
-42101,0,'Thorold',421
 42401,0,'Brock',424
 42400,0,'Tupper Dr',424
 43101,0,'Brock',431
