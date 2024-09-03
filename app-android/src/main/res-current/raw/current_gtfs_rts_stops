@@ -8,7 +8,7 @@
 8,'8','Martindale Rd + Fawell Ave',43.16346,-79.26661,0,1574
 9,'9','Grapeview Dr + Martindale Rd',43.16525,-79.26864,0,1575
 10,'10','Grapeview Dr + Vansickle Rd N',43.16443,-79.27089,0,1576
-11,'11','Grapeview Dr + Stoney Brk Cres',43.16330,-79.27399,0,1598
+11,'11','Grapeview Dr + Stoney Brk Cres',43.16354,-79.27345,0,1598
 12,'12','Grapeview Dr + 1st St Louth',43.16249,-79.27625,0,1599
 13,'13','1st St Louth + Grapeview S',43.16433,-79.27655,0,1600
 14,'14','1st St Louth + Endicott Dr',43.16648,-79.27660,0,1601
@@ -97,6 +97,9 @@
 104,'104','Ontario St + Meadowvale Dr',43.18177,-79.26698,0,48751
 105,'105','Ontario St + Linhaven',43.18340,-79.26607,0,48752
 106,'106','Ontario St + Juliana Cr',43.18473,-79.26537,0,48753
+107,'107','Ontario St + Linwell Rd',43.18638,-79.26434,0,48754
+108,'108','Ontario St + Jaycee Gdns Pk',43.18935,-79.26278,0,48755
+111,'111','Ontario St + Philpark Rd',43.19461,-79.26036,0,48758
 113,'113','Lakeshore Rd + Crescentwood Dr',43.19829,-79.25722,0,48780
 114,'114','Lakeshore Rd + Lk St',43.19949,-79.25401,0,48781
 115,'115','Lakeshore Rd + 614 Lk St',43.20022,-79.25199,0,48782
@@ -116,10 +119,13 @@
 130,'130','Lakeshore Rd + Lk St',43.19959,-79.25385,0,48819
 131,'131','Lakeshore Rd + Westgate Pk',43.19883,-79.25593,0,48820
 132,'132','Lakeshore Rd + Lakeport Rd',43.19705,-79.25991,0,1694
+133,'133','Ontario St + Philpark Rd',43.19494,-79.26032,0,48842
+136,'136','Ontario St + Jaycee Gdns Pk',43.18935,-79.26284,0,48845
+137,'137','Ontario St + Regatta Dr',43.18638,-79.26447,0,48846
 138,'138','Ontario St + Royal Henley Blvd',43.18456,-79.26552,0,48847
 139,'139','Ontario St + Linhaven',43.18344,-79.26616,0,48848
 140,'140','Ontario St + Henley Plz',43.18181,-79.26710,0,48849
-141,'141','Ontario St + Hiscott Rd',43.17755,-79.26671,0,48850
+141,'141','Ontario St + Hiscott Rd',43.17769,-79.26676,0,48850
 142,'142','Ontario St + 375 Ontario St',43.17518,-79.26620,0,48851
 143,'143','Ontario St + 343 Ontario St',43.17265,-79.26547,0,48873
 144,'144','Ontario St + Sitel',43.17065,-79.26484,0,48874
@@ -200,7 +206,7 @@
 249,'249','Oakdale Ave + Disher St',43.14806,-79.22139,0,49657
 250,'250','Oakdale Ave + Turner Cr',43.15045,-79.22245,0,49679
 251,'251','Oakdale Ave + Lincoln Ave',43.15265,-79.22459,0,49680
-252,'252','Oakdale Av & Marren St',43.15351,-79.22594,0,1572997
+252,'252','Oakdale Av + Marren St',43.15351,-79.22594,0,1572997
 253,'253','Oakdale Ave + Capner St',43.15509,-79.22716,0,1573024
 255,'255','Oakdale Ave + Eastchester Ave W',43.16054,-79.22899,0,49686
 256,'256','Oakdale Ave + Gale Cr',43.16305,-79.23235,0,49687
@@ -317,7 +323,7 @@
 375,'375','Lk St + Louisa St',43.16460,-79.25072,0,1513317
 376,'376','Lk St + Elizabeth St',43.16322,-79.25064,0,49835
 380,'380','Niagara St + Church St',43.16449,-79.23817,0,1507583
-382,'382','Niagara St + Welland Ave',43.16715,-79.23628,0,1507585
+382,'382','Niagara St + Welland Ave',43.16701,-79.23628,0,1507585
 383,'383','Niagara St + Dacotah St',43.16879,-79.23517,0,1507586
 384,'384','Niagara St + Ottawa St',43.17002,-79.23435,0,1507587
 386,'386','Niagara St + Manning St',43.17184,-79.23306,0,1507609
@@ -913,7 +919,7 @@
 1244,'1244','4th Ave + Vansickle Rd',43.15539,-79.27095,0,1570
 1245,'1245','4th Ave + Smart Ctr',43.15548,-79.26821,0,1571
 1246,'1246','Martindale Rd + Ridley Plz',43.15634,-79.26519,0,1572
-1247,'1247','357 Martindale Rd',43.18251,-79.27910,0,1757
+1247,'1247','357 Martindale Rd',43.18207,-79.27880,0,1757
 1248,'1248','Rockwood Ave + Woodrow St',43.14970,-79.20288,0,55361
 1249,'1249','Spg St + Queenston St',43.15963,-79.20619,0,55415
 1250,'1250','Eastchester Ave + Annette St',43.16601,-79.21310,0,55418
@@ -925,7 +931,7 @@
 1281,'1281','Geneva St + Draper Dr',43.20282,-79.24210,0,50832
 1283,'1283','Louth St + Crestcombe Rd',43.15103,-79.26020,0,53468
 1284,'1284','Rykert St + Leeper St',43.14286,-79.25181,0,53647
-1285,'1285','Glenridge Ave + E Academic Crosswalk',43.11906,-79.24346,0,1513290
+1285,'1285','Glenridge Ave + E Academic Crosswalk',43.11884,-79.24345,0,1513290
 1286,'1286','Schmon Pkwy + The Lofts',43.11499,-79.23886,0,56500
 1287,'1287','Westchester Cr + Oakdale Ave',43.15856,-79.22877,0,54614
 1290,'1290','Townline Rd W + Queen St N',43.13091,-79.20571,0,55538
@@ -989,20 +995,18 @@
 1388,'1388','Seapark Dr + 18 Seapark Dr',43.17525,-79.20320,0,1544167
 1389,'1389','Seapark Dr + Cushman Rd (Nsw)',43.17699,-79.20008,0,1544189
 1391,'1391','4th Ave + 1st St Louth',43.15513,-79.27650,0,1544191
-1392,'1392','Carlton St + Sunnylea Dr',43.18444,-79.21481,0,1544194
+1392,'1392','Carlton St + Sunnylea Dr',43.18416,-79.21559,0,1544194
 1393,'1393','Carlton St + Patricia Dr',43.18355,-79.21725,0,1544195
 1394,'1394','4th Av + 1st St Louth',43.15534,-79.27609,0,1544196
 1396,'1396','Richmond St + Winterberry Bl',43.11446,-79.22690,0,1571874
 1397,'1397','Richmond St + Raspberry Bl',43.11281,-79.23042,0,1571875
 1398,'1398','Richmond St + Manley Cr Path',43.11068,-79.23190,0,1571876
 1399,'1399','St Catharines GO Train Sta',43.14772,-79.25509,0,1572777
-1400,'1400','Schmon Pkwy & Merrittville Hwy',43.11168,-79.24244,0,1572898
+1400,'1400','Schmon Pkwy + Merrittville Hwy',43.11168,-79.24244,0,1572898
 1401,'1401','113 Cushman Rd',43.17259,-79.19967,0,1572899
 1402,'1402','110 Cushman Rd',43.17315,-79.19959,0,1572900
-1403,'1403','Queenston St & Riordon St',43.16235,-79.23918,0,1572901
+1403,'1403','Queenston St + Riordon St',43.16235,-79.23918,0,1572901
 1404,'1404','Merritt St + Ball Av E',43.13592,-79.20255,0,1597047
-1407,'1407','Lakeport Rd & Lakehurst Dr',43.19170,-79.25518,0,1597945
-1410,'1410','Lakeport Rd & Lakehurst Dr',43.19146,-79.25512,0,1597946
 2201,'2201','Niagara Falls Rd + Mackan St',43.10579,-79.19224,0,56566
 2202,'2202','Niagara Falls Rd + Morton St',43.10578,-79.19518,0,56567
 2203,'2203','Niagara Falls Rd + Allanburg Rd',43.10476,-79.19888,0,56568
@@ -1011,8 +1015,7 @@
 2206,'2206','Morton St + Deerfield Pkwy',43.09787,-79.19509,0,56592
 2207,'2207','Deerfield Pkwy + Allanburg Rd',43.09722,-79.19934,0,56593
 2208,'2208','Allanburg Rd + Hayes Rd',43.09433,-79.19955,0,56594
-2209,'2209','Allanburg Rd + Hodgkins Ave',43.09149,-79.19952,0,56595
-2210,'2210','Allanburg Rd & Hodgkins Av',43.09153,-79.19941,0,1597881
+2210,'2210','Allanburg Rd + Hodgkins Ave',43.09153,-79.19941,0,1597881
 2221,'2221','Allanburg Rd + Firehall',43.08875,-79.19931,0,1512297
 2222,'2222','Barker Pkwy + Sunset Way',43.09478,-79.18947,0,1512298
 100000,'DTT','St Catharines Bus Term',43.16008,-79.24355,0,1543044
