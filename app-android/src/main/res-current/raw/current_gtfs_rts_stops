@@ -98,7 +98,8 @@
 105,'105','Ontario St + Linhaven',43.18340,-79.26607,0,48752
 106,'106','Ontario St + Juliana Cr',43.18473,-79.26537,0,48753
 107,'107','Ontario St + Linwell Rd',43.18638,-79.26434,0,48754
-108,'108','Ontario St + Jaycee Gdns Pk',43.18935,-79.26278,0,48755
+108,'108','Ontario St + Jaycee Gdns Pk',43.19007,-79.26232,0,48755
+110,'110','Ontario St + Lakehurst Dr',43.19300,-79.26102,0,48757
 111,'111','Ontario St + Philpark Rd',43.19461,-79.26036,0,48758
 113,'113','Lakeshore Rd + Crescentwood Dr',43.19829,-79.25722,0,48780
 114,'114','Lakeshore Rd + Lk St',43.19949,-79.25401,0,48781
@@ -120,7 +121,8 @@
 131,'131','Lakeshore Rd + Westgate Pk',43.19883,-79.25593,0,48820
 132,'132','Lakeshore Rd + Lakeport Rd',43.19705,-79.25991,0,1694
 133,'133','Ontario St + Philpark Rd',43.19494,-79.26032,0,48842
-136,'136','Ontario St + Jaycee Gdns Pk',43.18935,-79.26284,0,48845
+134,'134','Ontario St + Lakehurst Dr',43.19279,-79.26118,0,48843
+136,'136','Ontario St + Jaycee Gdns Pk',43.19009,-79.26249,0,48845
 137,'137','Ontario St + Regatta Dr',43.18638,-79.26447,0,48846
 138,'138','Ontario St + Royal Henley Blvd',43.18456,-79.26552,0,48847
 139,'139','Ontario St + Linhaven',43.18344,-79.26616,0,48848
@@ -186,14 +188,14 @@
 222,'222','Glendale Ave + Burleigh Hl Dr',43.13494,-79.21959,0,49648
 223,'223','Burleigh Hl Dr + Warkdale Dr',43.13372,-79.21878,0,55446
 224,'224','Burleigh Hl Dr + Dalecrest Ave',43.12850,-79.21556,0,55447
-225,'225','St Davids Rd + Burleigh Hl Dr',43.12667,-79.21659,0,55571
+225,'225','St Davids Rd + Burleigh Hl Dr',43.12680,-79.21651,0,55571
 226,'226','St Davids Rd + Marmac Dr',43.12602,-79.21859,0,55572
 227,'227','St Davids Rd + Barbican Gt',43.12433,-79.22321,0,55573
 228,'228','Sir Isaac Brock Way + Schmon Pkwy',43.11766,-79.24184,0,55574
 231,'231','Brock U Daycare',43.11657,-79.24994,0,54397
 234,'234','St Davids Rd + Tupper Dr',43.12450,-79.22244,0,1512354
 235,'235','St Davids Rd + Marmac Dr',43.12616,-79.21797,0,55569
-236,'236','St Davids Rd + Collier Rd N',43.12692,-79.21593,0,55570
+236,'236','St Davids Rd + Collier Rd N',43.12673,-79.21633,0,55570
 237,'237','Burleigh Hl Dr + Dalecrest Ave',43.12850,-79.21548,0,55544
 238,'238','Burleigh Hl Dr + Glendale Av',43.13408,-79.21868,0,1572996
 239,'239','Glendale Ave + Mtn St',43.13589,-79.21630,0,49649
