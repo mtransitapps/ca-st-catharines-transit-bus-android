@@ -168,7 +168,7 @@
 195,'195','St Paul St + Queen St',43.15665,-79.24534,1,48693
 196,'196','St Paul St + James St',43.15835,-79.24342,1,1512416
 201,'201','Oakdale Ave + Gale Cr',43.16287,-79.23233,1,48913
-202,'202','Oakdale Ave + Eastchester Ave',43.16013,-79.22905,0,49586
+202,'202','Oakdale Ave + Eastchester Ave',43.16042,-79.22909,0,49586
 203,'203','Oakdale Ave + Westchester Cres',43.15862,-79.22904,1,49587
 204,'204','Oakdale Ave + Capner St',43.15505,-79.22717,1,49589
 205,'205','Oakdale Ave + Marren St',43.15348,-79.22590,1,49590
@@ -263,7 +263,6 @@
 309,'309','Linwell Rd + Lakeport Rd',43.18960,-79.25470,0,1507518
 310,'310','Linwell Rd + Bill Burgoyne Arena',43.18856,-79.25734,0,1507519
 311,'311','Linwell Rd + Linwell Mnr',43.18702,-79.26081,1,1507520
-312,'312','Linwell Rd + Ontario St',43.18584,-79.26396,0,1507521
 313,'313','Meadowvale Dr + Dorothy St',43.18057,-79.26693,0,1507522
 314,'314','Meadowvale Dr + St Helena St',43.17956,-79.26111,0,1507524
 315,'315','St Helena St + Meadowvale Dr',43.17982,-79.25964,0,1507525
@@ -542,7 +541,7 @@
 636,'636','Wembly Dr + Glendale Ave',43.14230,-79.20208,0,51694
 637,'637','Wembly Dr + St Augustine Dr',43.14337,-79.20278,0,51695
 638,'638','St Augustine Dr + Woodrow St',43.14414,-79.20161,1,51696
-639,'639','Woodrow St + Grn Maple Dr',43.14558,-79.20200,0,51697
+639,'639','Woodrow St + Grn Maple Dr',43.14557,-79.20200,0,51697
 640,'640','Woodrow St + Stonegate Dr',43.14722,-79.20214,0,51698
 642,'642','Woodrow St + Rockwood Av',43.14979,-79.20271,1,1544038
 643,'643','Rockwood Ave + Pk Ave',43.14824,-79.20886,1,1510312
@@ -916,7 +915,7 @@
 1239,'1239','4th Ave + Smart Ctr',43.15563,-79.26834,1,56
 1240,'1240','4th Ave + Vansickle Rd',43.15555,-79.27041,1,57
 1241,'1241','1st St Louth + 4th Ave',43.15455,-79.27621,0,1510375
-1242,'1242','Niagara Health System - St Catharines Site',43.15297,-79.27684,1,1568
+1242,'1242','Niagara Health System - St Catharines Site',43.15297,-79.27684,0,1568
 1243,'1243','1st St Louth + 4th Ave',43.15501,-79.27615,0,1569
 1244,'1244','4th Ave + Vansickle Rd',43.15539,-79.27095,0,1570
 1245,'1245','4th Ave + Smart Ctr',43.15548,-79.26821,1,1571
