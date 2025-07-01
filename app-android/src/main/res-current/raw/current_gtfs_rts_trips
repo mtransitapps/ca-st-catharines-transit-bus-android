@@ -48,8 +48,8 @@
 33601,0,'Pen Ctr',336
 33700,0,'Hosp',337
 33701,0,'Museum',337
-33801,0,'Downtown',338
-33800,0,'GO Train Sta',338
+33801,0,'Bus Term',338
+33800,0,'Train Sta',338
 40101,0,'Downtown',401
 40100,0,'Port Dalhousie',401
 40201,0,'Downtown',402
@@ -80,8 +80,6 @@
 41800,0,'Pen Ctr',418
 42001,0,'Pen Ctr',420
 42000,0,'Thorold',420
-42100,0,'Brock',421
-42101,0,'Thorold',421
 42301,0,'Brock',423
 42300,0,'W St Catharines',423
 42401,0,'Brock',424
@@ -94,5 +92,5 @@
 43500,0,'Pen Ctr',435
 43700,0,'Hosp',437
 43701,0,'Seapark',437
-43801,0,'Downtown',438
+43801,0,'Bus Term',438
 43800,0,'Train Sta',438
