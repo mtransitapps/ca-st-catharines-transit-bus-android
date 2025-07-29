@@ -42,6 +42,7 @@
                 android:value="@string/gtfs_rts_authority" />
         </provider>
         <!-- CLEVER DEVICES PROVIDER -->
+        <!-- http://whereis.yourbus.com/ is up... still relevant? -->
         <provider
             android:name="org.mtransit.android.commons.provider.CleverDevicesProvider"
             android:authorities="@string/clever_devices_authority"
@@ -56,7 +57,7 @@
                 android:value="@string/clever_devices_status_for_poi_authority" />
         </provider>
         <!-- RSS NEWS PROVIDER -->
-        <!-- www.yourbus.com is down
+        <!-- www.yourbus.com/feed is down
         <provider
             android:name="org.mtransit.android.commons.provider.RSSNewsProvider"
             android:authorities="@string/rss_authority"
