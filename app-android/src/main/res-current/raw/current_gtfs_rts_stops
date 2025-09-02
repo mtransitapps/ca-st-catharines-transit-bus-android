@@ -191,7 +191,7 @@
 225,'225','St Davids Rd + Burleigh Hl Dr',43.12680,-79.21651,0,55571
 226,'226','St Davids Rd + Marmac Dr',43.12602,-79.21859,0,55572
 227,'227','St Davids Rd + Barbican Gt',43.12433,-79.22321,1,55573
-228,'228','Sir Isaac Brock Way + Schmon Pkwy',43.11766,-79.24184,1,55574
+228,'228','Isaac Brock Way + Schmon Pkwy',43.11766,-79.24184,1,55574
 231,'231','Brock U Daycare',43.11657,-79.24994,0,54397
 234,'234','St Davids Rd + Tupper Dr',43.12450,-79.22244,0,1512354
 235,'235','St Davids Rd + Marmac Dr',43.12616,-79.21797,0,55569
@@ -659,7 +659,7 @@
 787,'787','Glendale Ave + Hampton Rd',43.13348,-79.23175,0,1512390
 789,'789','Glendale Ave + Pendale Plz',43.13234,-79.22640,0,1512391
 791,'791','Glendale Ave + Marlene Dr',43.13297,-79.23048,0,1512388
-792,'792','Glendale Ave + Woodgale Pk',43.13400,-79.23455,1,1512389
+792,'792','Glendale Ave + Kushner Pk',43.13400,-79.23455,1,1512389
 793,'793','Glendale Ave + Wakil Dr',43.13439,-79.23755,0,53617
 794,'794','Glendale Ave + Glenridge Ave',43.13467,-79.23951,1,53618
 795,'795','Glendale Ave + Marsdale Dr',43.13500,-79.24247,1,53619
@@ -823,7 +823,7 @@
 994,'994','Townline Rd + St Davids Rd',43.12983,-79.20880,0,55540
 996,'996','St Davids Rd + Allanburg Rd S',43.12802,-79.21346,0,55542
 997,'997','St Davids Rd + Burleigh Hl Dr',43.12736,-79.21509,0,55543
-999,'999','Schmon Pkwy + Enbridge',43.11337,-79.23867,0,56501
+999,'999','3401 Schmon Pkwy',43.11337,-79.23867,0,56501
 1002,'1002','Abbey Dr + Keefer Rd',43.10806,-79.22528,0,1511426
 1003,'1003','Keefer Rd + Conroy Cr',43.10864,-79.22820,0,56504
 1004,'1004','Keefer Rd + Manley Cr',43.11050,-79.22994,0,56505
@@ -915,7 +915,7 @@
 1239,'1239','4th Ave + Smart Ctr',43.15563,-79.26834,1,56
 1240,'1240','4th Ave + Vansickle Rd',43.15555,-79.27041,1,57
 1241,'1241','1st St Louth + 4th Ave',43.15455,-79.27621,0,1510375
-1242,'1242','Niagara Health System - St Catharines Site',43.15297,-79.27684,1,1568
+1242,'1242','Niagara Health System - Marotta Family Hosp',43.15297,-79.27684,1,1568
 1243,'1243','1st St Louth + 4th Ave',43.15501,-79.27615,0,1569
 1244,'1244','4th Ave + Vansickle Rd',43.15539,-79.27095,0,1570
 1245,'1245','4th Ave + Smart Ctr',43.15548,-79.26821,1,1571
@@ -953,7 +953,7 @@
 1312,'1312','Oblate St + Garnet St',43.17876,-79.22398,0,1512418
 1313,'1313','Front St + Regent St',43.12785,-79.20084,0,1510462
 1314,'1314','Martindale Rd + 4th Av',43.15615,-79.26559,1,1510465
-1340,'1340','Sir Isaac Brock Way + Schmon Pkwy',43.11820,-79.23963,1,1511455
+1340,'1340','Isaac Brock Way + Schmon Pkwy',43.11820,-79.23963,1,1511455
 1344,'1344','Geneva St + Maple St',43.16725,-79.24045,1,51575
 1345,'1345','Meadowvale Rd + Dawn Rd',43.17964,-79.26310,1,1507523
 1348,'1348','Lakeshore Rd + Vine St',43.20970,-79.23244,1,1512291
