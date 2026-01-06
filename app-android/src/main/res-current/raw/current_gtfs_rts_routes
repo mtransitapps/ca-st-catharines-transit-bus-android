@@ -20,15 +20,13 @@
 322,'322','Thorold South','C0504D',50611,3
 323,'323','West Brock Commuter','646BC5',50612,3
 324,'324','Brock - Tupper','0070C0',50613,3
-331,'331','Brock - Richmond','00B050',50641,3
+331,'331','Brock - Richmond','04A559',50641,3
 332,'332','Brock - Richmond - Towpath','F56995',50642,3
 335,'335','Pen - Brock','519177',50645,3
 336,'336','Pen - Glendale - Brock','E73D2A',50646,3
 337,'337','Crosstown','E46C0A',50647,3
-338,'338','GO Train Connection','4E6128',50648,3
 401,'401','Hosp','E02626',51509,3
-402,'402','Ontario St','00B050',51510,3
-403,'403','Pelham Rd','943734',51511,3
+402,'402','Ontario St','04A559',51510,3
 404,'404','Oakdale Av','E46C0A',51512,3
 406,'406','Lk St','E02626',51514,3
 408,'408','Grantham Av','519177',51516,3
@@ -45,7 +43,7 @@
 423,'423','West Brock Commuter','646BC5',51573,3
 424,'424','Brock - Tupper','0070C0',51574,3
 425,'425','Brock Bullet Express','B3B3B3',51575,3
-431,'431','Brock - Richmond','00B050',51602,3
+431,'431','Brock - Richmond','04A559',51602,3
 432,'432','Brock - Richmond - Towpath','F56995',51603,3
 435,'435','Pen - Brock','519177',51606,3
 436,'436','Pen - Glendale - Brock','E73D2A',51607,3

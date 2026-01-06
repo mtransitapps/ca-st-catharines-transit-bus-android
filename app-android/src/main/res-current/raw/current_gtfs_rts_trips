@@ -2,7 +2,7 @@
 30100,0,'Port Dalhousie',301
 30201,0,'Downtown',302
 30200,0,'Lakeshore Rd',302
-30301,0,'Downtown Term',303
+30301,0,'Downtown',303
 30300,0,'Pelham Rd',303
 30401,0,'Downtown',304
 30400,0,'Pen Ctr',304
@@ -52,14 +52,10 @@
 33601,0,'Pen Ctr',336
 33700,0,'Hosp',337
 33701,0,'Museum',337
-33800,0,'GO Train Sta',338
-33801,0,'St Catharines Term',338
 40101,0,'Downtown',401
 40100,0,'Port Dalhousie',401
 40201,0,'Downtown',402
 40200,0,'Lakeshore Rd',402
-40301,0,'Downtown',403
-40300,0,'Smart Ctr',403
 40401,0,'Downtown',404
 40400,0,'Pen Ctr',404
 40601,0,'Downtown',406
@@ -101,5 +97,5 @@
 43601,0,'Pen Ctr',436
 43700,0,'Hosp',437
 43701,0,'Seapark',437
+43801,0,'Downtown',438
 43800,0,'GO Train Sta',438
-43801,0,'St Catharines Bus Term',438
