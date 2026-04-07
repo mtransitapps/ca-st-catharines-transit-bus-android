@@ -1,12 +1,12 @@
 30101,0,'Downtown',301
-30100,0,'Hosp -Port Dalhousie',301
+30100,0,'Port Dalhousie',301
 30201,0,'Downtown',302
 30200,0,'Lakeshore Rd',302
 30301,0,'Downtown',303
 30300,0,'Pelham Rd',303
 30401,0,'Downtown',304
 30400,0,'Pen Ctr',304
-30501,0,'Downtown / Fairview Mall',305
+30501,0,'Downtown',305
 30500,0,'Linwell Rd',305
 30601,0,'Downtown',306
 30600,0,'Port Dalhousie',306
@@ -36,8 +36,8 @@
 32000,0,'Thorold',320
 32100,0,'Brock',321
 32101,0,'Thorold',321
-32200,0,'Port Robinson',322
-32201,0,'Port Robinson',322
+32200,0,'Allanburg Rd + Hodgkins Ave',322
+32201,0,'Thorold Towpath Term',322
 32301,0,'Brock',323
 32300,0,'W St Catharines',323
 32401,0,'Brock',324
@@ -52,7 +52,7 @@
 33601,0,'Pen Ctr',336
 33700,0,'Hosp',337
 33701,0,'Museum',337
-40101,0,'Downtown / Hosp',401
+40101,0,'Downtown',401
 40100,0,'Port Dalhousie',401
 40201,0,'Downtown',402
 40200,0,'Lakeshore Rd',402
@@ -66,7 +66,7 @@
 40900,0,'Lakeshore Rd',409
 41001,0,'Downtown',410
 41000,0,'Pen Ctr',410
-41201,0,'Downtown / Fairview Mall',412
+41201,0,'Downtown',412
 41200,0,'Lakeshore Rd',412
 41401,0,'Fairview Mall',414
 41400,0,'Scott St',414
@@ -93,9 +93,9 @@
 43201,0,'Thorold',432
 43501,0,'Brock',435
 43500,0,'Pen Ctr',435
-43601,0,'Brock-Glendale-Pen Ctr',436
-43600,0,'Brock-Glendale-Pen Ctr',436
+43600,0,'Brock U',436
+43601,0,'Pen Ctr',436
 43700,0,'Hosp',437
-43701,0,'Seapark / Term',437
+43701,0,'Seapark',437
 43801,0,'Downtown',438
 43800,0,'GO Train Sta',438
