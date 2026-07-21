@@ -12,16 +12,10 @@
 12,'12','Grapeview Dr + 1st St Louth',43.16249,-79.27625,2,1599
 13,'13','1st St Louth + 3rd Ave Louth',43.16433,-79.27655,2,1600
 14,'14','1st St Louth + Endicott Dr',43.16648,-79.27660,2,1601
-15,'15','1st St Louth + Huntington Ln',43.16952,-79.27668,2,1602
+15,'15','1st St Louth + Huntington Ln',43.16947,-79.27666,2,1602
 16,'16','1st St Louth + Erion Rd',43.17171,-79.27675,2,1603
 17,'17','Erion Rd + Huntington Sq',43.17208,-79.27432,1,1604
 18,'18','Martindale Rd + Hannover Dr',43.17364,-79.27392,2,1605
-19,'19','Martindale Rd + Corporate Pk Dr',43.17612,-79.27524,1,1606
-20,'20','Martindale Rd + Brooklyn Ct',43.18046,-79.27772,2,1607
-21,'21','370 Martindale Rd',43.18249,-79.27899,2,1629
-22,'22','Martindale Rd + Golden Blvd',43.18442,-79.28077,2,1630
-23,'23','Martindale Rd + Dalemere Blvd',43.18875,-79.28605,2,1631
-24,'24','Martindale Rd + Main St',43.19026,-79.28654,2,1632
 26,'26','Main St + Dalemere Cr',43.19130,-79.28444,1,1513284
 28,'28','Main St + Henley Isl Dr',43.19377,-79.28041,1,1636
 29,'29','Corbett Av + Main St',43.19515,-79.27891,2,1637
@@ -55,10 +49,6 @@
 58,'58','Corbett Av + Main St',43.19503,-79.27888,1,1730
 59,'59','Main St + Henley Isl Dr',43.19366,-79.28072,2,1731
 60,'60','Main St + Cole Farm Blvd',43.19172,-79.28372,1,1753
-61,'61','Martindale Rd + Main St',43.19026,-79.28669,2,1754
-62,'62','Martindale Rd + Dalemere Blvd',43.18835,-79.28603,2,1512231
-63,'63','Martindale Rd + Golden Blvd',43.18438,-79.28090,2,1756
-64,'64','Martindale Rd + Brooklyn Ct',43.18005,-79.27762,2,1758
 66,'66','Martindale Rd + S Service Rd',43.17562,-79.27521,1,1759
 67,'67','Martindale Rd + Hannover Dr',43.17370,-79.27410,1,1760
 68,'68','Martindale Rd + Erion Rd',43.17243,-79.27340,1,1761
@@ -109,7 +99,7 @@
 118,'118','Lakeshore Rd + Geneva St',43.20429,-79.24291,1,48785
 119,'119','Lakeshore Rd + Aquadale Dr',43.20548,-79.24061,1,48786
 120,'120','Lakeshore Rd + Clifford St',43.20726,-79.23713,2,1572959
-121,'121','Lakeshore Rd + Loyalist Dr',43.20871,-79.23440,2,48788
+121,'121','Lakeshore Rd + Loyalist Dr',43.20862,-79.23445,2,48788
 123,'123','Lakeshore Rd + Loyalist Dr',43.20881,-79.23442,2,48812
 124,'124','Lakeshore Rd + Tanner Cir',43.20725,-79.23741,2,48813
 125,'125','Lakeshore Rd + Aquadale Dr',43.20590,-79.24000,2,48814
@@ -389,13 +379,13 @@
 454,'454','Niagara St + Welland Ave',43.16676,-79.23659,2,1507709
 456,'456','Niagara St + Church St',43.16415,-79.23848,2,1507711
 458,'458','King St + Church St',43.16282,-79.24220,1,51760
-459,'459','Welland Ave + Midtown Plz',43.16400,-79.24518,1,49839
-460,'460','Welland Ave + Water St',43.16496,-79.24250,2,49840
-461,'461','Welland Ave + Geneva St',43.16590,-79.23986,1,49841
-462,'462','Welland Ave + Niagara St',43.16676,-79.23746,2,49842
-463,'463','Welland Ave + Page St',43.16778,-79.23463,1,49843
-465,'465','Welland Ave + E St',43.16900,-79.23119,2,49866
-466,'466','Welland Ave + Vine St',43.16966,-79.22928,2,49867
+459,'459','Welland Ave + Midtown Plz',43.16398,-79.24509,1,49839
+460,'460','Welland Ave + Water St',43.16497,-79.24234,2,49840
+461,'461','Welland Ave + Geneva St',43.16598,-79.23951,1,49841
+462,'462','Welland Ave + Niagara St',43.16671,-79.23746,2,49842
+463,'463','Welland Ave + Page St',43.16773,-79.23459,1,49843
+465,'465','Welland Ave + E St',43.16894,-79.23115,2,49866
+466,'466','Welland Ave + Vine St',43.16962,-79.22922,2,49867
 467,'467','Welland Ave + Berryman Ave',43.17043,-79.22701,2,49868
 468,'468','Welland Ave + Dieppe Rd',43.17194,-79.22276,2,49869
 469,'469','Grantham Ave + Welland Ave',43.17350,-79.22025,2,49870
@@ -424,7 +414,7 @@
 496,'496','Lakeshore Rd + Wilcher Dr',43.21202,-79.22811,1,51512
 497,'497','Lakeshore Rd + Stanley St',43.21098,-79.23022,2,51513
 499,'499','Lakeshore Rd + Stanley St',43.21114,-79.22963,2,50834
-500,'500','Lakeshore Rd + Bradmon Dr',43.21212,-79.22753,1,50835
+500,'500','Lakeshore Rd + Bradmon Dr',43.21191,-79.22797,1,50835
 502,'502','Lakeshore Rd + Arthur St',43.21346,-79.22231,1,51509
 503,'503','Parnell Rd + Pearce Av',43.21309,-79.21519,2,50648
 504,'504','Parnell Rd + Bunting Rd',43.21363,-79.21343,2,1544035
@@ -529,7 +519,7 @@
 613,'613','Queenston St + Clayburn Ave',43.16143,-79.22363,1,51603
 616,'616','Queenston St + Cameron Rd',43.15888,-79.21530,2,51607
 617,'617','Hartzel Rd + Lincoln Ave',43.15548,-79.21452,1,51608
-620,'620','Hartzel Rd + Admiral Rd',43.14899,-79.21436,1,51632
+620,'620','Hartzel Rd + Admiral Rd',43.14849,-79.21413,1,51632
 623,'623','Merritt St + Bessey St',43.13573,-79.21136,2,51636
 625,'625','Merritt St + Maplecrest Ave',43.13458,-79.20066,2,51639
 628,'628','Ormond St N + Brock St',43.13131,-79.19933,2,51664
@@ -548,10 +538,10 @@
 643,'643','Rockwood Ave + Pk Ave',43.14824,-79.20886,1,1510312
 644,'644','Rockwood Ave + Ferndale Ave',43.14717,-79.21188,1,51701
 645,'645','Rockwood Ave + Grv Ave',43.14660,-79.21358,1,51702
-647,'647','Hartzel Rd + Dunvegan Rd',43.15090,-79.21432,2,51725
+647,'647','Hartzel Rd + Dunvegan Rd',43.15093,-79.21422,2,51725
 648,'648','Hartzel Rd + Alexandra Blvd',43.15254,-79.21435,2,51726
 649,'649','Hartzel Rd + Oakwood Ave',43.15401,-79.21433,1,51727
-650,'650','Hartzel Rd + Keswick St',43.15553,-79.21448,1,1512264
+650,'650','Hartzel Rd + Keswick St',43.15559,-79.21438,1,1512264
 651,'651','Queenston St + Cameron Rd',43.15899,-79.21527,1,51729
 652,'652','Queenston St + Marmora St',43.15980,-79.21760,1,51730
 653,'653','Queenston St + Grantham Ave S',43.16065,-79.22011,1,51731
@@ -923,7 +913,6 @@
 1244,'1244','4th Ave + Vansickle Rd',43.15539,-79.27095,2,1570
 1245,'1245','4th Ave + Smart Ctr',43.15548,-79.26821,1,1571
 1246,'1246','Martindale Rd + Ridley Plz',43.15634,-79.26519,1,1572
-1247,'1247','357 Martindale Rd',43.18207,-79.27880,2,1757
 1248,'1248','Rockwood Ave + Woodrow St',43.14970,-79.20288,1,55361
 1249,'1249','Spg St + Queenston St',43.15963,-79.20619,1,55415
 1250,'1250','Eastchester Ave + Annette St',43.16601,-79.21310,2,55418
