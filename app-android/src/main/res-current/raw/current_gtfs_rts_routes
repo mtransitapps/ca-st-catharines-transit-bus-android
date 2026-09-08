@@ -18,8 +18,10 @@
 320,'320','Thorold','005D72',50609,3
 321,'321','Confederation','005D72',50610,3
 322,'322','Thorold South','005D72',50611,3
+323,'323','West Brock Commuter','005D72',50612,3
 324,'324','Brock - Tupper','005D72',50613,3
 331,'331','Brock - Richmond','005D72',50641,3
+332,'332','Brock - Richmond - Towpath','005D72',50642,3
 335,'335','Pen - Brock','005D72',50645,3
 336,'336','Pen - Glendale - Brock','005D72',50646,3
 337,'337','Crosstown','005D72',50647,3
@@ -40,8 +42,10 @@
 421,'421','Confederation','005D72',51571,3
 423,'423','West Brock Commuter','005D72',51573,3
 424,'424','Brock - Tupper','005D72',51574,3
+425,'425','Brock Bullet Express','005D72',51575,3
 431,'431','Brock - Richmond','005D72',51602,3
 432,'432','Brock - Richmond - Towpath','005D72',51603,3
 435,'435','Pen - Brock','005D72',51606,3
+436,'436','Pen - Glendale - Brock','005D72',51607,3
 437,'437','Crosstown','005D72',51608,3
 438,'438','GO Train Sta Connection','005D72',51609,3
