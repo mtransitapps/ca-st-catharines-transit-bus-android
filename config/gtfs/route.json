@@ -1,0 +1,509 @@
+{
+    "exclude_routes": [
+        {
+            "route_short_name_regex": "^\\d{2}$"
+        },
+        {
+            "route_short_name_regex": "^[^34]\\d{2}$"
+        }
+    ],
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "default_route_long_name_enabled": true,
+    "route_colors_ignored": [
+        "005D72"
+    ],
+    "route_colors_comment": "From https://nrtransit.ca/routes/st-catharines-and-thorold/",
+    "route_colors": [
+        {
+            "route_short_name": "301",
+            "color": "ED171F"
+        },
+        {
+            "route_short_name": "302",
+            "color": "04A559"
+        },
+        {
+            "route_short_name": "303",
+            "color": "943734"
+        },
+        {
+            "route_short_name": "304",
+            "color": "E46C0A"
+        },
+        {
+            "route_short_name": "305",
+            "color": "604A7B"
+        },
+        {
+            "route_short_name": "306",
+            "color": "ED171F"
+        },
+        {
+            "route_short_name": "307",
+            "color": "376092"
+        },
+        {
+            "route_short_name": "308",
+            "color": "428B96"
+        },
+        {
+            "route_short_name": "309",
+            "color": "519177"
+        },
+        {
+            "route_short_name": "310",
+            "color": "524D59"
+        },
+        {
+            "route_short_name": "311",
+            "color": "376092"
+        },
+        {
+            "route_short_name": "312",
+            "color": "04A559"
+        },
+        {
+            "route_short_name": "314",
+            "color": "BD4A5B"
+        },
+        {
+            "route_short_name": "315",
+            "color": "0E8343"
+        },
+        {
+            "route_short_name": "316",
+            "color": "FF0000"
+        },
+        {
+            "route_short_name": "317",
+            "color": "604A7B"
+        },
+        {
+            "route_short_name": "318",
+            "color": "0E8343"
+        },
+        {
+            "route_short_name": "320",
+            "color": "534CA3"
+        },
+        {
+            "route_short_name": "321",
+            "color": "519177"
+        },
+        {
+            "route_short_name": "322",
+            "color": "C0504D"
+        },
+        {
+            "route_short_name": "323",
+            "color": "646BC5"
+        },
+        {
+            "route_short_name": "324",
+            "color": "0070C0"
+        },
+        {
+            "route_short_name": "331",
+            "color": "04A559"
+        },
+        {
+            "route_short_name": "332",
+            "color": "F56995"
+        },
+        {
+            "route_short_name": "335",
+            "color": "519177"
+        },
+        {
+            "route_short_name": "336",
+            "color": "E73D2A"
+        },
+        {
+            "route_short_name": "337",
+            "color": "E46C0A"
+        },
+        {
+            "route_short_name": "401",
+            "color": "ED171F"
+        },
+        {
+            "route_short_name": "402",
+            "color": "04A559"
+        },
+        {
+            "route_short_name": "404",
+            "color": "E46C0A"
+        },
+        {
+            "route_short_name": "406",
+            "color": "E02626"
+        },
+        {
+            "route_short_name": "408",
+            "color": "519177"
+        },
+        {
+            "route_short_name": "409",
+            "color": "519177"
+        },
+        {
+            "route_short_name": "410",
+            "color": "524D59"
+        },
+        {
+            "route_short_name": "412",
+            "color": "524D59"
+        },
+        {
+            "route_short_name": "414",
+            "color": "BD4A5B"
+        },
+        {
+            "route_short_name": "415",
+            "color": "0E8343"
+        },
+        {
+            "route_short_name": "416",
+            "color": "FF0000"
+        },
+        {
+            "route_short_name": "417",
+            "color": "604A7B"
+        },
+        {
+            "route_short_name": "418",
+            "color": "0E8343"
+        },
+        {
+            "route_short_name": "420",
+            "color": "524D59"
+        },
+        {
+            "route_short_name": "421",
+            "color": "519177"
+        },
+        {
+            "route_short_name": "423",
+            "color": "646BC5"
+        },
+        {
+            "route_short_name": "424",
+            "color": "0070C0"
+        },
+        {
+            "route_short_name": "425",
+            "color": "000000"
+        },
+        {
+            "route_short_name": "431",
+            "color": "04A559"
+        },
+        {
+            "route_short_name": "432",
+            "color": "F56995"
+        },
+        {
+            "route_short_name": "435",
+            "color": "519177"
+        },
+        {
+            "route_short_name": "436",
+            "color": "E73D2A"
+        },
+        {
+            "route_short_name": "437",
+            "color": "E46C0A"
+        },
+        {
+            "route_short_name": "438",
+            "color": "4E6128"
+        }
+    ],
+    "direction_finder_enabled": true,
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "^([^\\-]+-\\s?)+",
+            "ignore_case": true,
+            "comment": "remove route long name before the 1st '-'"
+        }
+    ],
+    "stop_headsign_cleanup_regex": "(^[0-9]{1,3}[A-Z]? (([^\\-]+-\\s?)+)?)",
+    "use_stop_code_for_stop_id_if_available": true,
+    "use_stop_code_for_stop_id_if_available_comment": "stop id: use stop code if available",
+    "stop_id_not_supported_configs": [
+        {
+            "original_stop_id": "DTT",
+            "stop_id_int": 100000
+        },
+        {
+            "original_stop_id": "NFT",
+            "stop_id_int": 100001
+        },
+        {
+            "original_stop_id": "PEN",
+            "stop_id_int": 100002
+        },
+        {
+            "original_stop_id": "SWM",
+            "stop_id_int": 100003
+        },
+        {
+            "original_stop_id": "WEL",
+            "stop_id_int": 100004
+        },
+        {
+            "original_stop_id": "BAS",
+            "stop_id_int": 100005
+        },
+        {
+            "original_stop_id": "BRU",
+            "stop_id_int": 100006
+        },
+        {
+            "original_stop_id": "DAS",
+            "stop_id_int": 174
+        },
+        {
+            "original_stop_id": "DAS0174",
+            "stop_id_int": 174
+        },
+        {
+            "original_stop_id": "FVM",
+            "stop_id_int": 100008
+        },
+        {
+            "original_stop_id": "GLW",
+            "stop_id_int": 100009
+        },
+        {
+            "original_stop_id": "LIG",
+            "stop_id_int": 100010
+        },
+        {
+            "original_stop_id": "QUP",
+            "stop_id_int": 100011
+        },
+        {
+            "original_stop_id": "WSM",
+            "stop_id_int": 100012
+        },
+        {
+            "original_stop_id": "MIW",
+            "stop_id_int": 100013
+        },
+        {
+            "original_stop_id": "BIS",
+            "stop_id_int": 100014
+        },
+        {
+            "original_stop_id": "BRR",
+            "stop_id_int": 100015
+        },
+        {
+            "original_stop_id": "CER",
+            "stop_id_int": 100016
+        },
+        {
+            "original_stop_id": "VIL",
+            "stop_id_int": 100017
+        },
+        {
+            "original_stop_id": "STK",
+            "stop_id_int": 100018
+        },
+        {
+            "original_stop_id": "MCS",
+            "stop_id_int": 100019
+        },
+        {
+            "original_stop_id": "GDC",
+            "stop_id_int": 100020
+        },
+        {
+            "original_stop_id": "WLC",
+            "stop_id_int": 100021
+        },
+        {
+            "original_stop_id": "WAL",
+            "stop_id_int": 100022
+        },
+        {
+            "original_stop_id": "RIC",
+            "stop_id_int": 100023
+        },
+        {
+            "original_stop_id": "HOS",
+            "stop_id_int": 100024
+        },
+        {
+            "original_stop_id": "LKO",
+            "stop_id_int": 100025
+        },
+        {
+            "original_stop_id": "LKV",
+            "stop_id_int": 100026
+        },
+        {
+            "original_stop_id": "GBH",
+            "stop_id_int": 100027
+        },
+        {
+            "original_stop_id": "LLI",
+            "stop_id_int": 100028
+        },
+        {
+            "original_stop_id": "LKN",
+            "stop_id_int": 100029
+        },
+        {
+            "original_stop_id": "GLI",
+            "stop_id_int": 100030
+        },
+        {
+            "original_stop_id": "SIR",
+            "stop_id_int": 100031
+        },
+        {
+            "original_stop_id": "OSD",
+            "stop_id_int": 100032
+        },
+        {
+            "original_stop_id": "DCA",
+            "stop_id_int": 724
+        },
+        {
+            "original_stop_id": "DCA0724",
+            "stop_id_int": 724
+        },
+        {
+            "original_stop_id": "TLQ",
+            "stop_id_int": 100034
+        },
+        {
+            "original_stop_id": "CTO",
+            "stop_id_int": 100035
+        },
+        {
+            "original_stop_id": "MCL",
+            "stop_id_int": 767
+        },
+        {
+            "original_stop_id": "MCL0767",
+            "stop_id_int": 767
+        },
+        {
+            "original_stop_id": "LKL",
+            "stop_id_int": 100037
+        },
+        {
+            "original_stop_id": "LKG",
+            "stop_id_int": 100038
+        },
+        {
+            "original_stop_id": "PGL",
+            "stop_id_int": 100039
+        },
+        {
+            "original_stop_id": "CRL",
+            "stop_id_int": 100040
+        },
+        {
+            "original_stop_id": "WIA",
+            "stop_id_int": 421
+        },
+        {
+            "original_stop_id": "WIA0421",
+            "stop_id_int": 421
+        },
+        {
+            "original_stop_id": "CVI",
+            "stop_id_int": 100042
+        },
+        {
+            "original_stop_id": "KAB",
+            "stop_id_int": 100043
+        },
+        {
+            "original_stop_id": "OUT",
+            "stop_id_int": 100044
+        },
+        {
+            "original_stop_id": "ERM",
+            "stop_id_int": 100045
+        },
+        {
+            "original_stop_id": "WEN",
+            "stop_id_int": 100046
+        },
+        {
+            "original_stop_id": "WEC",
+            "stop_id_int": 100047
+        },
+        {
+            "original_stop_id": "PAP",
+            "stop_id_int": 100048
+        },
+        {
+            "original_stop_id": "SIP",
+            "stop_id_int": 1372
+        },
+        {
+            "original_stop_id": "SIP1372",
+            "stop_id_int": 1372
+        },
+        {
+            "original_stop_id": "CKE",
+            "stop_id_int": 1072
+        },
+        {
+            "original_stop_id": "CKE1072",
+            "stop_id_int": 1072
+        },
+        {
+            "original_stop_id": "GOT",
+            "stop_id_int": 1399
+        },
+        {
+            "original_stop_id": "GOT1399",
+            "stop_id_int": 1399
+        }
+    ],
+    "stop_id_previous_char_configs": [
+        {
+            "char": "CD",
+            "id_part": 30000
+        },
+        {
+            "char": "CRL",
+            "id_part": 40000
+        },
+        {
+            "char": "GLI",
+            "id_part": 70000
+        },
+        {
+            "char": "LKV",
+            "id_part": 120000
+        },
+        {
+            "char": "LLI",
+            "id_part": 130000
+        },
+        {
+            "char": "NOTL",
+            "id_part": 140000
+        },
+        {
+            "char": "PGL",
+            "id_part": 160000
+        },
+        {
+            "char": "SCWE",
+            "id_part": 190000
+        }
+    ],
+    "stop_code_comment": "stop code: kept stop code as is but fallback to stop ID, was used by Clever Devices real-time API at http://whereis.yourbus.com/",
+    "stop_name_cleaners": []
+}
